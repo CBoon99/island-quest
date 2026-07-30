@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Island Quest">
+  <rect width="192" height="192" rx="36" fill="#0d6e6e"/>
+  <circle cx="96" cy="110" r="48" fill="#f5c542"/>
+  <ellipse cx="96" cy="150" rx="70" ry="18" fill="#2e9e8f"/>
+  <path d="M60 100c20-40 52-40 72 0" fill="none" stroke="#fff8ef" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="96" cy="72" r="10" fill="#ff6b4a"/>
+</svg>

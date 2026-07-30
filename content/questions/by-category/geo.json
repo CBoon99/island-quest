@@ -1,0 +1,692 @@
+[
+  {
+    "id": "q_geo_0044",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "What is the largest ocean on Earth?",
+    "answers": [
+      {
+        "id": "q_geo_0044_c",
+        "text": "Indian Ocean"
+      },
+      {
+        "id": "q_geo_0044_d",
+        "text": "Arctic Ocean"
+      },
+      {
+        "id": "q_geo_0044_a",
+        "text": "Pacific Ocean"
+      },
+      {
+        "id": "q_geo_0044_b",
+        "text": "Atlantic Ocean"
+      }
+    ],
+    "correctAnswerId": "q_geo_0044_a",
+    "explanation": "The Pacific is the largest ocean.",
+    "hint": "Think about: World geography",
+    "funFact": "The Pacific is the largest ocean.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0045",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Which continent is Egypt mostly on?",
+    "answers": [
+      {
+        "id": "q_geo_0045_d",
+        "text": "Antarctica"
+      },
+      {
+        "id": "q_geo_0045_a",
+        "text": "Africa"
+      },
+      {
+        "id": "q_geo_0045_b",
+        "text": "Europe"
+      },
+      {
+        "id": "q_geo_0045_c",
+        "text": "Australia"
+      }
+    ],
+    "correctAnswerId": "q_geo_0045_a",
+    "explanation": "Egypt is in northeastern Africa.",
+    "hint": "Think about: World geography",
+    "funFact": "Egypt is in northeastern Africa.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0046",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "What is the capital of Japan?",
+    "answers": [
+      {
+        "id": "q_geo_0046_a",
+        "text": "Tokyo"
+      },
+      {
+        "id": "q_geo_0046_b",
+        "text": "Osaka"
+      },
+      {
+        "id": "q_geo_0046_c",
+        "text": "Seoul"
+      },
+      {
+        "id": "q_geo_0046_d",
+        "text": "Beijing"
+      }
+    ],
+    "correctAnswerId": "q_geo_0046_a",
+    "explanation": "Tokyo is Japan’s capital.",
+    "hint": "Think about: World capitals",
+    "funFact": "Tokyo is Japan’s capital.",
+    "sourceName": "World capitals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0047",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Mount Everest is in which mountain range?",
+    "answers": [
+      {
+        "id": "q_geo_0047_b",
+        "text": "Alps"
+      },
+      {
+        "id": "q_geo_0047_c",
+        "text": "Andes"
+      },
+      {
+        "id": "q_geo_0047_d",
+        "text": "Rockies"
+      },
+      {
+        "id": "q_geo_0047_a",
+        "text": "Himalayas"
+      }
+    ],
+    "correctAnswerId": "q_geo_0047_a",
+    "explanation": "Everest is in the Himalayas.",
+    "hint": "Think about: World geography",
+    "funFact": "Everest is in the Himalayas.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0048",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Which is a desert?",
+    "answers": [
+      {
+        "id": "q_geo_0048_c",
+        "text": "Great Barrier Reef"
+      },
+      {
+        "id": "q_geo_0048_d",
+        "text": "Antarctic ice only as forest"
+      },
+      {
+        "id": "q_geo_0048_a",
+        "text": "Sahara"
+      },
+      {
+        "id": "q_geo_0048_b",
+        "text": "Amazon rainforest"
+      }
+    ],
+    "correctAnswerId": "q_geo_0048_a",
+    "explanation": "The Sahara is a vast desert in Africa.",
+    "hint": "Think about: World geography",
+    "funFact": "The Sahara is a vast desert in Africa.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0049",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Which direction does the sun rise?",
+    "answers": [
+      {
+        "id": "q_geo_0049_d",
+        "text": "South"
+      },
+      {
+        "id": "q_geo_0049_a",
+        "text": "East"
+      },
+      {
+        "id": "q_geo_0049_b",
+        "text": "West"
+      },
+      {
+        "id": "q_geo_0049_c",
+        "text": "North"
+      }
+    ],
+    "correctAnswerId": "q_geo_0049_a",
+    "explanation": "The sun rises in the east.",
+    "hint": "Think about: Earth basics",
+    "funFact": "The sun rises in the east.",
+    "sourceName": "Earth basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0138",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Quest check: What is the largest ocean on Earth?",
+    "answers": [
+      {
+        "id": "q_geo_0138_c",
+        "text": "Indian Ocean"
+      },
+      {
+        "id": "q_geo_0138_d",
+        "text": "Arctic Ocean"
+      },
+      {
+        "id": "q_geo_0138_a",
+        "text": "Pacific Ocean"
+      },
+      {
+        "id": "q_geo_0138_b",
+        "text": "Atlantic Ocean"
+      }
+    ],
+    "correctAnswerId": "q_geo_0138_a",
+    "explanation": "The Pacific is the largest ocean.",
+    "hint": "Think about: World geography",
+    "funFact": "The Pacific is the largest ocean.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0139",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Quest check: Which continent is Egypt mostly on?",
+    "answers": [
+      {
+        "id": "q_geo_0139_d",
+        "text": "Antarctica"
+      },
+      {
+        "id": "q_geo_0139_a",
+        "text": "Africa"
+      },
+      {
+        "id": "q_geo_0139_b",
+        "text": "Europe"
+      },
+      {
+        "id": "q_geo_0139_c",
+        "text": "Australia"
+      }
+    ],
+    "correctAnswerId": "q_geo_0139_a",
+    "explanation": "Egypt is in northeastern Africa.",
+    "hint": "Think about: World geography",
+    "funFact": "Egypt is in northeastern Africa.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0140",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Quest check: What is the capital of Japan?",
+    "answers": [
+      {
+        "id": "q_geo_0140_d",
+        "text": "Beijing"
+      },
+      {
+        "id": "q_geo_0140_a",
+        "text": "Tokyo"
+      },
+      {
+        "id": "q_geo_0140_b",
+        "text": "Osaka"
+      },
+      {
+        "id": "q_geo_0140_c",
+        "text": "Seoul"
+      }
+    ],
+    "correctAnswerId": "q_geo_0140_a",
+    "explanation": "Tokyo is Japan’s capital.",
+    "hint": "Think about: World capitals",
+    "funFact": "Tokyo is Japan’s capital.",
+    "sourceName": "World capitals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0141",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Quest check: Mount Everest is in which mountain range?",
+    "answers": [
+      {
+        "id": "q_geo_0141_a",
+        "text": "Himalayas"
+      },
+      {
+        "id": "q_geo_0141_b",
+        "text": "Alps"
+      },
+      {
+        "id": "q_geo_0141_c",
+        "text": "Andes"
+      },
+      {
+        "id": "q_geo_0141_d",
+        "text": "Rockies"
+      }
+    ],
+    "correctAnswerId": "q_geo_0141_a",
+    "explanation": "Everest is in the Himalayas.",
+    "hint": "Think about: World geography",
+    "funFact": "Everest is in the Himalayas.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0142",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Quest check: Which is a desert?",
+    "answers": [
+      {
+        "id": "q_geo_0142_b",
+        "text": "Amazon rainforest"
+      },
+      {
+        "id": "q_geo_0142_c",
+        "text": "Great Barrier Reef"
+      },
+      {
+        "id": "q_geo_0142_d",
+        "text": "Antarctic ice only as forest"
+      },
+      {
+        "id": "q_geo_0142_a",
+        "text": "Sahara"
+      }
+    ],
+    "correctAnswerId": "q_geo_0142_a",
+    "explanation": "The Sahara is a vast desert in Africa.",
+    "hint": "Think about: World geography",
+    "funFact": "The Sahara is a vast desert in Africa.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0143",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Quest check: Which direction does the sun rise?",
+    "answers": [
+      {
+        "id": "q_geo_0143_c",
+        "text": "North"
+      },
+      {
+        "id": "q_geo_0143_d",
+        "text": "South"
+      },
+      {
+        "id": "q_geo_0143_a",
+        "text": "East"
+      },
+      {
+        "id": "q_geo_0143_b",
+        "text": "West"
+      }
+    ],
+    "correctAnswerId": "q_geo_0143_a",
+    "explanation": "The sun rises in the east.",
+    "hint": "Think about: Earth basics",
+    "funFact": "The sun rises in the east.",
+    "sourceName": "Earth basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0232",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Adventure #232: What is the largest ocean on Earth?",
+    "answers": [
+      {
+        "id": "q_geo_0232_b",
+        "text": "Atlantic Ocean"
+      },
+      {
+        "id": "q_geo_0232_c",
+        "text": "Indian Ocean"
+      },
+      {
+        "id": "q_geo_0232_d",
+        "text": "Arctic Ocean"
+      },
+      {
+        "id": "q_geo_0232_a",
+        "text": "Pacific Ocean"
+      }
+    ],
+    "correctAnswerId": "q_geo_0232_a",
+    "explanation": "The Pacific is the largest ocean.",
+    "hint": "Think about: World geography",
+    "funFact": "The Pacific is the largest ocean.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0233",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Adventure #233: Which continent is Egypt mostly on?",
+    "answers": [
+      {
+        "id": "q_geo_0233_c",
+        "text": "Australia"
+      },
+      {
+        "id": "q_geo_0233_d",
+        "text": "Antarctica"
+      },
+      {
+        "id": "q_geo_0233_a",
+        "text": "Africa"
+      },
+      {
+        "id": "q_geo_0233_b",
+        "text": "Europe"
+      }
+    ],
+    "correctAnswerId": "q_geo_0233_a",
+    "explanation": "Egypt is in northeastern Africa.",
+    "hint": "Think about: World geography",
+    "funFact": "Egypt is in northeastern Africa.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0234",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Adventure #234: What is the capital of Japan?",
+    "answers": [
+      {
+        "id": "q_geo_0234_d",
+        "text": "Beijing"
+      },
+      {
+        "id": "q_geo_0234_a",
+        "text": "Tokyo"
+      },
+      {
+        "id": "q_geo_0234_b",
+        "text": "Osaka"
+      },
+      {
+        "id": "q_geo_0234_c",
+        "text": "Seoul"
+      }
+    ],
+    "correctAnswerId": "q_geo_0234_a",
+    "explanation": "Tokyo is Japan’s capital.",
+    "hint": "Think about: World capitals",
+    "funFact": "Tokyo is Japan’s capital.",
+    "sourceName": "World capitals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0235",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Adventure #235: Mount Everest is in which mountain range?",
+    "answers": [
+      {
+        "id": "q_geo_0235_a",
+        "text": "Himalayas"
+      },
+      {
+        "id": "q_geo_0235_b",
+        "text": "Alps"
+      },
+      {
+        "id": "q_geo_0235_c",
+        "text": "Andes"
+      },
+      {
+        "id": "q_geo_0235_d",
+        "text": "Rockies"
+      }
+    ],
+    "correctAnswerId": "q_geo_0235_a",
+    "explanation": "Everest is in the Himalayas.",
+    "hint": "Think about: World geography",
+    "funFact": "Everest is in the Himalayas.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0236",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Adventure #236: Which is a desert?",
+    "answers": [
+      {
+        "id": "q_geo_0236_b",
+        "text": "Amazon rainforest"
+      },
+      {
+        "id": "q_geo_0236_c",
+        "text": "Great Barrier Reef"
+      },
+      {
+        "id": "q_geo_0236_d",
+        "text": "Antarctic ice only as forest"
+      },
+      {
+        "id": "q_geo_0236_a",
+        "text": "Sahara"
+      }
+    ],
+    "correctAnswerId": "q_geo_0236_a",
+    "explanation": "The Sahara is a vast desert in Africa.",
+    "hint": "Think about: World geography",
+    "funFact": "The Sahara is a vast desert in Africa.",
+    "sourceName": "World geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_geo_0237",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Geography",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Adventure #237: Which direction does the sun rise?",
+    "answers": [
+      {
+        "id": "q_geo_0237_c",
+        "text": "North"
+      },
+      {
+        "id": "q_geo_0237_d",
+        "text": "South"
+      },
+      {
+        "id": "q_geo_0237_a",
+        "text": "East"
+      },
+      {
+        "id": "q_geo_0237_b",
+        "text": "West"
+      }
+    ],
+    "correctAnswerId": "q_geo_0237_a",
+    "explanation": "The sun rises in the east.",
+    "hint": "Think about: Earth basics",
+    "funFact": "The sun rises in the east.",
+    "sourceName": "Earth basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "geo",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

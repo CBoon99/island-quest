@@ -1,0 +1,807 @@
+[
+  {
+    "id": "q_space_0054",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      {
+        "id": "q_space_0054_a",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0054_b",
+        "text": "Venus"
+      },
+      {
+        "id": "q_space_0054_c",
+        "text": "Jupiter"
+      },
+      {
+        "id": "q_space_0054_d",
+        "text": "Neptune"
+      }
+    ],
+    "correctAnswerId": "q_space_0054_a",
+    "explanation": "Mars looks reddish from iron oxide dust.",
+    "hint": "Think about: NASA / astronomy basics",
+    "funFact": "Mars looks reddish from iron oxide dust.",
+    "sourceName": "NASA / astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_space_0055",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 4,
+    "question": "What is the closest star to Earth?",
+    "answers": [
+      {
+        "id": "q_space_0055_b",
+        "text": "Polaris"
+      },
+      {
+        "id": "q_space_0055_c",
+        "text": "Sirius"
+      },
+      {
+        "id": "q_space_0055_d",
+        "text": "Betelgeuse"
+      },
+      {
+        "id": "q_space_0055_a",
+        "text": "The Sun"
+      }
+    ],
+    "correctAnswerId": "q_space_0055_a",
+    "explanation": "The Sun is our nearest star.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "The Sun is our nearest star.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_space_0056",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 4,
+    "question": "How many planets are in our solar system?",
+    "answers": [
+      {
+        "id": "q_space_0056_c",
+        "text": "9"
+      },
+      {
+        "id": "q_space_0056_d",
+        "text": "12"
+      },
+      {
+        "id": "q_space_0056_a",
+        "text": "8"
+      },
+      {
+        "id": "q_space_0056_b",
+        "text": "7"
+      }
+    ],
+    "correctAnswerId": "q_space_0056_a",
+    "explanation": "Eight planets orbit the Sun (Pluto is a dwarf planet).",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Eight planets orbit the Sun (Pluto is a dwarf planet).",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_space_0057",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 1,
+    "question": "Which planet has famous rings?",
+    "answers": [
+      {
+        "id": "q_space_0057_d",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0057_a",
+        "text": "Saturn"
+      },
+      {
+        "id": "q_space_0057_b",
+        "text": "Mercury"
+      },
+      {
+        "id": "q_space_0057_c",
+        "text": "Earth"
+      }
+    ],
+    "correctAnswerId": "q_space_0057_a",
+    "explanation": "Saturn is known for its bright ring system.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Saturn is known for its bright ring system.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_space_0058",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 1,
+    "question": "What do we call a rocky object that burns in Earth’s atmosphere?",
+    "answers": [
+      {
+        "id": "q_space_0058_a",
+        "text": "Meteor"
+      },
+      {
+        "id": "q_space_0058_b",
+        "text": "Comet only"
+      },
+      {
+        "id": "q_space_0058_c",
+        "text": "Galaxy"
+      },
+      {
+        "id": "q_space_0058_d",
+        "text": "Nebula"
+      }
+    ],
+    "correctAnswerId": "q_space_0058_a",
+    "explanation": "A meteor is a meteoroid burning in the air.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "A meteor is a meteoroid burning in the air.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_space_0059",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 2,
+    "question": "The Moon orbits which body?",
+    "answers": [
+      {
+        "id": "q_space_0059_b",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0059_c",
+        "text": "The Sun only directly"
+      },
+      {
+        "id": "q_space_0059_d",
+        "text": "Jupiter"
+      },
+      {
+        "id": "q_space_0059_a",
+        "text": "Earth"
+      }
+    ],
+    "correctAnswerId": "q_space_0059_a",
+    "explanation": "The Moon orbits Earth.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "The Moon orbits Earth.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_space_0060",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 2,
+    "question": "Which planet is largest in our solar system?",
+    "answers": [
+      {
+        "id": "q_space_0060_b",
+        "text": "Earth"
+      },
+      {
+        "id": "q_space_0060_c",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0060_d",
+        "text": "Mercury"
+      },
+      {
+        "id": "q_space_0060_a",
+        "text": "Jupiter"
+      }
+    ],
+    "correctAnswerId": "q_space_0060_a",
+    "explanation": "Jupiter is a gas giant and the largest planet.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Jupiter is a gas giant and the largest planet.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_space_0148",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 2,
+    "question": "Quest check: Which planet is known as the Red Planet?",
+    "answers": [
+      {
+        "id": "q_space_0148_a",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0148_b",
+        "text": "Venus"
+      },
+      {
+        "id": "q_space_0148_c",
+        "text": "Jupiter"
+      },
+      {
+        "id": "q_space_0148_d",
+        "text": "Neptune"
+      }
+    ],
+    "correctAnswerId": "q_space_0148_a",
+    "explanation": "Mars looks reddish from iron oxide dust.",
+    "hint": "Think about: NASA / astronomy basics",
+    "funFact": "Mars looks reddish from iron oxide dust.",
+    "sourceName": "NASA / astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0149",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 3,
+    "question": "Quest check: What is the closest star to Earth?",
+    "answers": [
+      {
+        "id": "q_space_0149_b",
+        "text": "Polaris"
+      },
+      {
+        "id": "q_space_0149_c",
+        "text": "Sirius"
+      },
+      {
+        "id": "q_space_0149_d",
+        "text": "Betelgeuse"
+      },
+      {
+        "id": "q_space_0149_a",
+        "text": "The Sun"
+      }
+    ],
+    "correctAnswerId": "q_space_0149_a",
+    "explanation": "The Sun is our nearest star.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "The Sun is our nearest star.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0150",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 3,
+    "question": "Quest check: How many planets are in our solar system?",
+    "answers": [
+      {
+        "id": "q_space_0150_b",
+        "text": "7"
+      },
+      {
+        "id": "q_space_0150_c",
+        "text": "9"
+      },
+      {
+        "id": "q_space_0150_d",
+        "text": "12"
+      },
+      {
+        "id": "q_space_0150_a",
+        "text": "8"
+      }
+    ],
+    "correctAnswerId": "q_space_0150_a",
+    "explanation": "Eight planets orbit the Sun (Pluto is a dwarf planet).",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Eight planets orbit the Sun (Pluto is a dwarf planet).",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0151",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 4,
+    "question": "Quest check: Which planet has famous rings?",
+    "answers": [
+      {
+        "id": "q_space_0151_c",
+        "text": "Earth"
+      },
+      {
+        "id": "q_space_0151_d",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0151_a",
+        "text": "Saturn"
+      },
+      {
+        "id": "q_space_0151_b",
+        "text": "Mercury"
+      }
+    ],
+    "correctAnswerId": "q_space_0151_a",
+    "explanation": "Saturn is known for its bright ring system.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Saturn is known for its bright ring system.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0152",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 4,
+    "question": "Quest check: What do we call a rocky object that burns in Earth’s atmosphere?",
+    "answers": [
+      {
+        "id": "q_space_0152_d",
+        "text": "Nebula"
+      },
+      {
+        "id": "q_space_0152_a",
+        "text": "Meteor"
+      },
+      {
+        "id": "q_space_0152_b",
+        "text": "Comet only"
+      },
+      {
+        "id": "q_space_0152_c",
+        "text": "Galaxy"
+      }
+    ],
+    "correctAnswerId": "q_space_0152_a",
+    "explanation": "A meteor is a meteoroid burning in the air.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "A meteor is a meteoroid burning in the air.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0153",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 1,
+    "question": "Quest check: The Moon orbits which body?",
+    "answers": [
+      {
+        "id": "q_space_0153_a",
+        "text": "Earth"
+      },
+      {
+        "id": "q_space_0153_b",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0153_c",
+        "text": "The Sun only directly"
+      },
+      {
+        "id": "q_space_0153_d",
+        "text": "Jupiter"
+      }
+    ],
+    "correctAnswerId": "q_space_0153_a",
+    "explanation": "The Moon orbits Earth.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "The Moon orbits Earth.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0154",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 1,
+    "question": "Quest check: Which planet is largest in our solar system?",
+    "answers": [
+      {
+        "id": "q_space_0154_b",
+        "text": "Earth"
+      },
+      {
+        "id": "q_space_0154_c",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0154_d",
+        "text": "Mercury"
+      },
+      {
+        "id": "q_space_0154_a",
+        "text": "Jupiter"
+      }
+    ],
+    "correctAnswerId": "q_space_0154_a",
+    "explanation": "Jupiter is a gas giant and the largest planet.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Jupiter is a gas giant and the largest planet.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0242",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 1,
+    "question": "Adventure #242: Which planet is known as the Red Planet?",
+    "answers": [
+      {
+        "id": "q_space_0242_d",
+        "text": "Neptune"
+      },
+      {
+        "id": "q_space_0242_a",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0242_b",
+        "text": "Venus"
+      },
+      {
+        "id": "q_space_0242_c",
+        "text": "Jupiter"
+      }
+    ],
+    "correctAnswerId": "q_space_0242_a",
+    "explanation": "Mars looks reddish from iron oxide dust.",
+    "hint": "Think about: NASA / astronomy basics",
+    "funFact": "Mars looks reddish from iron oxide dust.",
+    "sourceName": "NASA / astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0243",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 2,
+    "question": "Adventure #243: What is the closest star to Earth?",
+    "answers": [
+      {
+        "id": "q_space_0243_a",
+        "text": "The Sun"
+      },
+      {
+        "id": "q_space_0243_b",
+        "text": "Polaris"
+      },
+      {
+        "id": "q_space_0243_c",
+        "text": "Sirius"
+      },
+      {
+        "id": "q_space_0243_d",
+        "text": "Betelgeuse"
+      }
+    ],
+    "correctAnswerId": "q_space_0243_a",
+    "explanation": "The Sun is our nearest star.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "The Sun is our nearest star.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0244",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 2,
+    "question": "Adventure #244: How many planets are in our solar system?",
+    "answers": [
+      {
+        "id": "q_space_0244_b",
+        "text": "7"
+      },
+      {
+        "id": "q_space_0244_c",
+        "text": "9"
+      },
+      {
+        "id": "q_space_0244_d",
+        "text": "12"
+      },
+      {
+        "id": "q_space_0244_a",
+        "text": "8"
+      }
+    ],
+    "correctAnswerId": "q_space_0244_a",
+    "explanation": "Eight planets orbit the Sun (Pluto is a dwarf planet).",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Eight planets orbit the Sun (Pluto is a dwarf planet).",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0245",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 3,
+    "question": "Adventure #245: Which planet has famous rings?",
+    "answers": [
+      {
+        "id": "q_space_0245_c",
+        "text": "Earth"
+      },
+      {
+        "id": "q_space_0245_d",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0245_a",
+        "text": "Saturn"
+      },
+      {
+        "id": "q_space_0245_b",
+        "text": "Mercury"
+      }
+    ],
+    "correctAnswerId": "q_space_0245_a",
+    "explanation": "Saturn is known for its bright ring system.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Saturn is known for its bright ring system.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0246",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 3,
+    "question": "Adventure #246: What do we call a rocky object that burns in Earth’s atmosphere?",
+    "answers": [
+      {
+        "id": "q_space_0246_d",
+        "text": "Nebula"
+      },
+      {
+        "id": "q_space_0246_a",
+        "text": "Meteor"
+      },
+      {
+        "id": "q_space_0246_b",
+        "text": "Comet only"
+      },
+      {
+        "id": "q_space_0246_c",
+        "text": "Galaxy"
+      }
+    ],
+    "correctAnswerId": "q_space_0246_a",
+    "explanation": "A meteor is a meteoroid burning in the air.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "A meteor is a meteoroid burning in the air.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0247",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 4,
+    "question": "Adventure #247: The Moon orbits which body?",
+    "answers": [
+      {
+        "id": "q_space_0247_a",
+        "text": "Earth"
+      },
+      {
+        "id": "q_space_0247_b",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0247_c",
+        "text": "The Sun only directly"
+      },
+      {
+        "id": "q_space_0247_d",
+        "text": "Jupiter"
+      }
+    ],
+    "correctAnswerId": "q_space_0247_a",
+    "explanation": "The Moon orbits Earth.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "The Moon orbits Earth.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_space_0248",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Space",
+    "worldId": "star-harbor",
+    "difficulty": 4,
+    "question": "Adventure #248: Which planet is largest in our solar system?",
+    "answers": [
+      {
+        "id": "q_space_0248_b",
+        "text": "Earth"
+      },
+      {
+        "id": "q_space_0248_c",
+        "text": "Mars"
+      },
+      {
+        "id": "q_space_0248_d",
+        "text": "Mercury"
+      },
+      {
+        "id": "q_space_0248_a",
+        "text": "Jupiter"
+      }
+    ],
+    "correctAnswerId": "q_space_0248_a",
+    "explanation": "Jupiter is a gas giant and the largest planet.",
+    "hint": "Think about: Astronomy basics",
+    "funFact": "Jupiter is a gas giant and the largest planet.",
+    "sourceName": "Astronomy basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "space",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

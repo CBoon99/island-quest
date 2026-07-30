@@ -1,0 +1,41 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+*.local
+
+# Env secrets
+.env
+.env.*
+!.env.example
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Test / coverage
+coverage
+playwright-report
+test-results
+blob-report
+
+# Local data
+.data
+.local-store
+*.log
+
+# Netlify
+.netlify
+
+# CI workflow requires GitHub token with workflow scope to push
+# .github/workflows/
+.github/workflows/

@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "q_animals_0036",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "What do bees collect from flowers?",
+    "answers": [
+      {
+        "id": "q_animals_0036_b",
+        "text": "Sand"
+      },
+      {
+        "id": "q_animals_0036_c",
+        "text": "Salt"
+      },
+      {
+        "id": "q_animals_0036_d",
+        "text": "Ice"
+      },
+      {
+        "id": "q_animals_0036_a",
+        "text": "Nectar"
+      }
+    ],
+    "correctAnswerId": "q_animals_0036_a",
+    "explanation": "Bees collect nectar to make honey.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Bees collect nectar to make honey.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0037",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Which animal is known as the king of the jungle?",
+    "answers": [
+      {
+        "id": "q_animals_0037_c",
+        "text": "Goldfish"
+      },
+      {
+        "id": "q_animals_0037_d",
+        "text": "Ant"
+      },
+      {
+        "id": "q_animals_0037_a",
+        "text": "Lion"
+      },
+      {
+        "id": "q_animals_0037_b",
+        "text": "Mouse"
+      }
+    ],
+    "correctAnswerId": "q_animals_0037_a",
+    "explanation": "Lions are often called kings of the jungle.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Lions are often called kings of the jungle.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0038",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "How many legs does a spider usually have?",
+    "answers": [
+      {
+        "id": "q_animals_0038_d",
+        "text": "10"
+      },
+      {
+        "id": "q_animals_0038_a",
+        "text": "8"
+      },
+      {
+        "id": "q_animals_0038_b",
+        "text": "6"
+      },
+      {
+        "id": "q_animals_0038_c",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_animals_0038_a",
+    "explanation": "Spiders have eight legs.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Spiders have eight legs.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0039",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "What is a baby frog called?",
+    "answers": [
+      {
+        "id": "q_animals_0039_a",
+        "text": "Tadpole"
+      },
+      {
+        "id": "q_animals_0039_b",
+        "text": "Puppy"
+      },
+      {
+        "id": "q_animals_0039_c",
+        "text": "Chick"
+      },
+      {
+        "id": "q_animals_0039_d",
+        "text": "Calf"
+      }
+    ],
+    "correctAnswerId": "q_animals_0039_a",
+    "explanation": "Young frogs start as tadpoles.",
+    "hint": "Think about: Animal life cycles",
+    "funFact": "Young frogs start as tadpoles.",
+    "sourceName": "Animal life cycles",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0040",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Which bird cannot fly well and is famous in Antarctica?",
+    "answers": [
+      {
+        "id": "q_animals_0040_a",
+        "text": "Penguin"
+      },
+      {
+        "id": "q_animals_0040_b",
+        "text": "Eagle"
+      },
+      {
+        "id": "q_animals_0040_c",
+        "text": "Sparrow"
+      },
+      {
+        "id": "q_animals_0040_d",
+        "text": "Parrot"
+      }
+    ],
+    "correctAnswerId": "q_animals_0040_a",
+    "explanation": "Penguins are flightless birds of cold seas.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Penguins are flightless birds of cold seas.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0041",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "What do cows mostly eat?",
+    "answers": [
+      {
+        "id": "q_animals_0041_b",
+        "text": "Fish"
+      },
+      {
+        "id": "q_animals_0041_c",
+        "text": "Insects only"
+      },
+      {
+        "id": "q_animals_0041_d",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_animals_0041_a",
+        "text": "Grass"
+      }
+    ],
+    "correctAnswerId": "q_animals_0041_a",
+    "explanation": "Cows are herbivores that eat grass.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Cows are herbivores that eat grass.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0042",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Which animal has a long trunk?",
+    "answers": [
+      {
+        "id": "q_animals_0042_c",
+        "text": "Rabbit"
+      },
+      {
+        "id": "q_animals_0042_d",
+        "text": "Frog"
+      },
+      {
+        "id": "q_animals_0042_a",
+        "text": "Elephant"
+      },
+      {
+        "id": "q_animals_0042_b",
+        "text": "Tiger"
+      }
+    ],
+    "correctAnswerId": "q_animals_0042_a",
+    "explanation": "Elephants use trunks to grab and drink.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Elephants use trunks to grab and drink.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0043",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "What covers a fish’s body?",
+    "answers": [
+      {
+        "id": "q_animals_0043_d",
+        "text": "Bark"
+      },
+      {
+        "id": "q_animals_0043_a",
+        "text": "Scales"
+      },
+      {
+        "id": "q_animals_0043_b",
+        "text": "Fur only"
+      },
+      {
+        "id": "q_animals_0043_c",
+        "text": "Feathers only"
+      }
+    ],
+    "correctAnswerId": "q_animals_0043_a",
+    "explanation": "Most fish have protective scales.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Most fish have protective scales.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0130",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Quest check: What do bees collect from flowers?",
+    "answers": [
+      {
+        "id": "q_animals_0130_a",
+        "text": "Nectar"
+      },
+      {
+        "id": "q_animals_0130_b",
+        "text": "Sand"
+      },
+      {
+        "id": "q_animals_0130_c",
+        "text": "Salt"
+      },
+      {
+        "id": "q_animals_0130_d",
+        "text": "Ice"
+      }
+    ],
+    "correctAnswerId": "q_animals_0130_a",
+    "explanation": "Bees collect nectar to make honey.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Bees collect nectar to make honey.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0131",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Quest check: Which animal is known as the king of the jungle?",
+    "answers": [
+      {
+        "id": "q_animals_0131_b",
+        "text": "Mouse"
+      },
+      {
+        "id": "q_animals_0131_c",
+        "text": "Goldfish"
+      },
+      {
+        "id": "q_animals_0131_d",
+        "text": "Ant"
+      },
+      {
+        "id": "q_animals_0131_a",
+        "text": "Lion"
+      }
+    ],
+    "correctAnswerId": "q_animals_0131_a",
+    "explanation": "Lions are often called kings of the jungle.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Lions are often called kings of the jungle.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0132",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Quest check: How many legs does a spider usually have?",
+    "answers": [
+      {
+        "id": "q_animals_0132_c",
+        "text": "4"
+      },
+      {
+        "id": "q_animals_0132_d",
+        "text": "10"
+      },
+      {
+        "id": "q_animals_0132_a",
+        "text": "8"
+      },
+      {
+        "id": "q_animals_0132_b",
+        "text": "6"
+      }
+    ],
+    "correctAnswerId": "q_animals_0132_a",
+    "explanation": "Spiders have eight legs.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Spiders have eight legs.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0133",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Quest check: What is a baby frog called?",
+    "answers": [
+      {
+        "id": "q_animals_0133_d",
+        "text": "Calf"
+      },
+      {
+        "id": "q_animals_0133_a",
+        "text": "Tadpole"
+      },
+      {
+        "id": "q_animals_0133_b",
+        "text": "Puppy"
+      },
+      {
+        "id": "q_animals_0133_c",
+        "text": "Chick"
+      }
+    ],
+    "correctAnswerId": "q_animals_0133_a",
+    "explanation": "Young frogs start as tadpoles.",
+    "hint": "Think about: Animal life cycles",
+    "funFact": "Young frogs start as tadpoles.",
+    "sourceName": "Animal life cycles",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0134",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Quest check: Which bird cannot fly well and is famous in Antarctica?",
+    "answers": [
+      {
+        "id": "q_animals_0134_a",
+        "text": "Penguin"
+      },
+      {
+        "id": "q_animals_0134_b",
+        "text": "Eagle"
+      },
+      {
+        "id": "q_animals_0134_c",
+        "text": "Sparrow"
+      },
+      {
+        "id": "q_animals_0134_d",
+        "text": "Parrot"
+      }
+    ],
+    "correctAnswerId": "q_animals_0134_a",
+    "explanation": "Penguins are flightless birds of cold seas.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Penguins are flightless birds of cold seas.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0135",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Quest check: What do cows mostly eat?",
+    "answers": [
+      {
+        "id": "q_animals_0135_b",
+        "text": "Fish"
+      },
+      {
+        "id": "q_animals_0135_c",
+        "text": "Insects only"
+      },
+      {
+        "id": "q_animals_0135_d",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_animals_0135_a",
+        "text": "Grass"
+      }
+    ],
+    "correctAnswerId": "q_animals_0135_a",
+    "explanation": "Cows are herbivores that eat grass.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Cows are herbivores that eat grass.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0136",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Quest check: Which animal has a long trunk?",
+    "answers": [
+      {
+        "id": "q_animals_0136_c",
+        "text": "Rabbit"
+      },
+      {
+        "id": "q_animals_0136_d",
+        "text": "Frog"
+      },
+      {
+        "id": "q_animals_0136_a",
+        "text": "Elephant"
+      },
+      {
+        "id": "q_animals_0136_b",
+        "text": "Tiger"
+      }
+    ],
+    "correctAnswerId": "q_animals_0136_a",
+    "explanation": "Elephants use trunks to grab and drink.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Elephants use trunks to grab and drink.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0137",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Quest check: What covers a fish’s body?",
+    "answers": [
+      {
+        "id": "q_animals_0137_d",
+        "text": "Bark"
+      },
+      {
+        "id": "q_animals_0137_a",
+        "text": "Scales"
+      },
+      {
+        "id": "q_animals_0137_b",
+        "text": "Fur only"
+      },
+      {
+        "id": "q_animals_0137_c",
+        "text": "Feathers only"
+      }
+    ],
+    "correctAnswerId": "q_animals_0137_a",
+    "explanation": "Most fish have protective scales.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Most fish have protective scales.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0224",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Adventure #224: What do bees collect from flowers?",
+    "answers": [
+      {
+        "id": "q_animals_0224_a",
+        "text": "Nectar"
+      },
+      {
+        "id": "q_animals_0224_b",
+        "text": "Sand"
+      },
+      {
+        "id": "q_animals_0224_c",
+        "text": "Salt"
+      },
+      {
+        "id": "q_animals_0224_d",
+        "text": "Ice"
+      }
+    ],
+    "correctAnswerId": "q_animals_0224_a",
+    "explanation": "Bees collect nectar to make honey.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Bees collect nectar to make honey.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0225",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Adventure #225: Which animal is known as the king of the jungle?",
+    "answers": [
+      {
+        "id": "q_animals_0225_b",
+        "text": "Mouse"
+      },
+      {
+        "id": "q_animals_0225_c",
+        "text": "Goldfish"
+      },
+      {
+        "id": "q_animals_0225_d",
+        "text": "Ant"
+      },
+      {
+        "id": "q_animals_0225_a",
+        "text": "Lion"
+      }
+    ],
+    "correctAnswerId": "q_animals_0225_a",
+    "explanation": "Lions are often called kings of the jungle.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Lions are often called kings of the jungle.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0226",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Adventure #226: How many legs does a spider usually have?",
+    "answers": [
+      {
+        "id": "q_animals_0226_c",
+        "text": "4"
+      },
+      {
+        "id": "q_animals_0226_d",
+        "text": "10"
+      },
+      {
+        "id": "q_animals_0226_a",
+        "text": "8"
+      },
+      {
+        "id": "q_animals_0226_b",
+        "text": "6"
+      }
+    ],
+    "correctAnswerId": "q_animals_0226_a",
+    "explanation": "Spiders have eight legs.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Spiders have eight legs.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0227",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Adventure #227: What is a baby frog called?",
+    "answers": [
+      {
+        "id": "q_animals_0227_d",
+        "text": "Calf"
+      },
+      {
+        "id": "q_animals_0227_a",
+        "text": "Tadpole"
+      },
+      {
+        "id": "q_animals_0227_b",
+        "text": "Puppy"
+      },
+      {
+        "id": "q_animals_0227_c",
+        "text": "Chick"
+      }
+    ],
+    "correctAnswerId": "q_animals_0227_a",
+    "explanation": "Young frogs start as tadpoles.",
+    "hint": "Think about: Animal life cycles",
+    "funFact": "Young frogs start as tadpoles.",
+    "sourceName": "Animal life cycles",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0228",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Adventure #228: Which bird cannot fly well and is famous in Antarctica?",
+    "answers": [
+      {
+        "id": "q_animals_0228_a",
+        "text": "Penguin"
+      },
+      {
+        "id": "q_animals_0228_b",
+        "text": "Eagle"
+      },
+      {
+        "id": "q_animals_0228_c",
+        "text": "Sparrow"
+      },
+      {
+        "id": "q_animals_0228_d",
+        "text": "Parrot"
+      }
+    ],
+    "correctAnswerId": "q_animals_0228_a",
+    "explanation": "Penguins are flightless birds of cold seas.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Penguins are flightless birds of cold seas.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0229",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Adventure #229: What do cows mostly eat?",
+    "answers": [
+      {
+        "id": "q_animals_0229_b",
+        "text": "Fish"
+      },
+      {
+        "id": "q_animals_0229_c",
+        "text": "Insects only"
+      },
+      {
+        "id": "q_animals_0229_d",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_animals_0229_a",
+        "text": "Grass"
+      }
+    ],
+    "correctAnswerId": "q_animals_0229_a",
+    "explanation": "Cows are herbivores that eat grass.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Cows are herbivores that eat grass.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0230",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Adventure #230: Which animal has a long trunk?",
+    "answers": [
+      {
+        "id": "q_animals_0230_b",
+        "text": "Tiger"
+      },
+      {
+        "id": "q_animals_0230_c",
+        "text": "Rabbit"
+      },
+      {
+        "id": "q_animals_0230_d",
+        "text": "Frog"
+      },
+      {
+        "id": "q_animals_0230_a",
+        "text": "Elephant"
+      }
+    ],
+    "correctAnswerId": "q_animals_0230_a",
+    "explanation": "Elephants use trunks to grab and drink.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Elephants use trunks to grab and drink.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0231",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Adventure #231: What covers a fish’s body?",
+    "answers": [
+      {
+        "id": "q_animals_0231_c",
+        "text": "Feathers only"
+      },
+      {
+        "id": "q_animals_0231_d",
+        "text": "Bark"
+      },
+      {
+        "id": "q_animals_0231_a",
+        "text": "Scales"
+      },
+      {
+        "id": "q_animals_0231_b",
+        "text": "Fur only"
+      }
+    ],
+    "correctAnswerId": "q_animals_0231_a",
+    "explanation": "Most fish have protective scales.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Most fish have protective scales.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0318",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Adventure #318: What do bees collect from flowers?",
+    "answers": [
+      {
+        "id": "q_animals_0318_a",
+        "text": "Nectar"
+      },
+      {
+        "id": "q_animals_0318_b",
+        "text": "Sand"
+      },
+      {
+        "id": "q_animals_0318_c",
+        "text": "Salt"
+      },
+      {
+        "id": "q_animals_0318_d",
+        "text": "Ice"
+      }
+    ],
+    "correctAnswerId": "q_animals_0318_a",
+    "explanation": "Bees collect nectar to make honey.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Bees collect nectar to make honey.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0319",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Adventure #319: Which animal is known as the king of the jungle?",
+    "answers": [
+      {
+        "id": "q_animals_0319_b",
+        "text": "Mouse"
+      },
+      {
+        "id": "q_animals_0319_c",
+        "text": "Goldfish"
+      },
+      {
+        "id": "q_animals_0319_d",
+        "text": "Ant"
+      },
+      {
+        "id": "q_animals_0319_a",
+        "text": "Lion"
+      }
+    ],
+    "correctAnswerId": "q_animals_0319_a",
+    "explanation": "Lions are often called kings of the jungle.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Lions are often called kings of the jungle.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_animals_0320",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Animals and Nature",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Adventure #320: How many legs does a spider usually have?",
+    "answers": [
+      {
+        "id": "q_animals_0320_b",
+        "text": "6"
+      },
+      {
+        "id": "q_animals_0320_c",
+        "text": "4"
+      },
+      {
+        "id": "q_animals_0320_d",
+        "text": "10"
+      },
+      {
+        "id": "q_animals_0320_a",
+        "text": "8"
+      }
+    ],
+    "correctAnswerId": "q_animals_0320_a",
+    "explanation": "Spiders have eight legs.",
+    "hint": "Think about: Animal facts",
+    "funFact": "Spiders have eight legs.",
+    "sourceName": "Animal facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "animals",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,76 @@
+.header {
+  text-align: center;
+  margin-bottom: var(--space-5);
+}
+
+.kicker {
+  margin: 0 0 var(--space-2);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: var(--color-primary);
+}
+
+.grid {
+  display: grid;
+  gap: var(--space-4);
+}
+
+@media (min-width: 640px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  text-align: center;
+  border: 2px solid transparent;
+}
+
+.cardA {
+  border-color: color-mix(in srgb, #5c6bc0 50%, transparent);
+}
+
+.cardB {
+  border-color: color-mix(in srgb, #ce93d8 50%, transparent);
+}
+
+.avatar {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: white;
+  box-shadow: var(--shadow-card);
+}
+
+.role {
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+}
+
+.meta {
+  margin: 0;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.parentLink {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-top: var(--space-6);
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  min-height: 44px;
+}

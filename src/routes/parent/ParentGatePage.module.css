@@ -1,0 +1,42 @@
+.back {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  color: var(--parent-color-primary);
+  font-weight: 700;
+  margin-bottom: var(--space-4);
+}
+
+.card {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  margin-top: var(--space-2);
+}
+
+.input {
+  min-height: 56px;
+  border-radius: var(--radius-md);
+  border: 2px solid rgba(0, 0, 0, 0.12);
+  text-align: center;
+  font-size: 1.5rem;
+  letter-spacing: 0.3em;
+  font-variant-numeric: tabular-nums;
+}
+
+.error {
+  color: var(--color-danger);
+  margin: 0;
+  font-size: 0.9rem;
+}

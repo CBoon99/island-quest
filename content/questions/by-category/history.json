@@ -1,0 +1,462 @@
+[
+  {
+    "id": "q_history_0050",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Who were the builders of the pyramids at Giza?",
+    "answers": [
+      {
+        "id": "q_history_0050_c",
+        "text": "Aztecs only"
+      },
+      {
+        "id": "q_history_0050_d",
+        "text": "Romans only"
+      },
+      {
+        "id": "q_history_0050_a",
+        "text": "Ancient Egyptians"
+      },
+      {
+        "id": "q_history_0050_b",
+        "text": "Vikings"
+      }
+    ],
+    "correctAnswerId": "q_history_0050_a",
+    "explanation": "The pyramids of Giza were built by ancient Egyptians.",
+    "hint": "Think about: World history",
+    "funFact": "The pyramids of Giza were built by ancient Egyptians.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_history_0051",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "What did the Wright brothers invent a famous early version of?",
+    "answers": [
+      {
+        "id": "q_history_0051_d",
+        "text": "Car only"
+      },
+      {
+        "id": "q_history_0051_a",
+        "text": "Airplane"
+      },
+      {
+        "id": "q_history_0051_b",
+        "text": "Telephone"
+      },
+      {
+        "id": "q_history_0051_c",
+        "text": "Light bulb"
+      }
+    ],
+    "correctAnswerId": "q_history_0051_a",
+    "explanation": "They pioneered powered flight.",
+    "hint": "Think about: Invention history",
+    "funFact": "They pioneered powered flight.",
+    "sourceName": "Invention history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_history_0052",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Ancient Rome was in which modern country area?",
+    "answers": [
+      {
+        "id": "q_history_0052_a",
+        "text": "Italy"
+      },
+      {
+        "id": "q_history_0052_b",
+        "text": "Japan"
+      },
+      {
+        "id": "q_history_0052_c",
+        "text": "Brazil"
+      },
+      {
+        "id": "q_history_0052_d",
+        "text": "Australia"
+      }
+    ],
+    "correctAnswerId": "q_history_0052_a",
+    "explanation": "Rome is in Italy.",
+    "hint": "Think about: World history",
+    "funFact": "Rome is in Italy.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_history_0053",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "What wall is famous in China?",
+    "answers": [
+      {
+        "id": "q_history_0053_b",
+        "text": "Berlin Wall only"
+      },
+      {
+        "id": "q_history_0053_c",
+        "text": "Hadrian only"
+      },
+      {
+        "id": "q_history_0053_d",
+        "text": "Garden fence"
+      },
+      {
+        "id": "q_history_0053_a",
+        "text": "Great Wall"
+      }
+    ],
+    "correctAnswerId": "q_history_0053_a",
+    "explanation": "The Great Wall is a historic Chinese fortification.",
+    "hint": "Think about: World history",
+    "funFact": "The Great Wall is a historic Chinese fortification.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_history_0144",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Quest check: Who were the builders of the pyramids at Giza?",
+    "answers": [
+      {
+        "id": "q_history_0144_c",
+        "text": "Aztecs only"
+      },
+      {
+        "id": "q_history_0144_d",
+        "text": "Romans only"
+      },
+      {
+        "id": "q_history_0144_a",
+        "text": "Ancient Egyptians"
+      },
+      {
+        "id": "q_history_0144_b",
+        "text": "Vikings"
+      }
+    ],
+    "correctAnswerId": "q_history_0144_a",
+    "explanation": "The pyramids of Giza were built by ancient Egyptians.",
+    "hint": "Think about: World history",
+    "funFact": "The pyramids of Giza were built by ancient Egyptians.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_history_0145",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Quest check: What did the Wright brothers invent a famous early version of?",
+    "answers": [
+      {
+        "id": "q_history_0145_d",
+        "text": "Car only"
+      },
+      {
+        "id": "q_history_0145_a",
+        "text": "Airplane"
+      },
+      {
+        "id": "q_history_0145_b",
+        "text": "Telephone"
+      },
+      {
+        "id": "q_history_0145_c",
+        "text": "Light bulb"
+      }
+    ],
+    "correctAnswerId": "q_history_0145_a",
+    "explanation": "They pioneered powered flight.",
+    "hint": "Think about: Invention history",
+    "funFact": "They pioneered powered flight.",
+    "sourceName": "Invention history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_history_0146",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Quest check: Ancient Rome was in which modern country area?",
+    "answers": [
+      {
+        "id": "q_history_0146_a",
+        "text": "Italy"
+      },
+      {
+        "id": "q_history_0146_b",
+        "text": "Japan"
+      },
+      {
+        "id": "q_history_0146_c",
+        "text": "Brazil"
+      },
+      {
+        "id": "q_history_0146_d",
+        "text": "Australia"
+      }
+    ],
+    "correctAnswerId": "q_history_0146_a",
+    "explanation": "Rome is in Italy.",
+    "hint": "Think about: World history",
+    "funFact": "Rome is in Italy.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_history_0147",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Quest check: What wall is famous in China?",
+    "answers": [
+      {
+        "id": "q_history_0147_b",
+        "text": "Berlin Wall only"
+      },
+      {
+        "id": "q_history_0147_c",
+        "text": "Hadrian only"
+      },
+      {
+        "id": "q_history_0147_d",
+        "text": "Garden fence"
+      },
+      {
+        "id": "q_history_0147_a",
+        "text": "Great Wall"
+      }
+    ],
+    "correctAnswerId": "q_history_0147_a",
+    "explanation": "The Great Wall is a historic Chinese fortification.",
+    "hint": "Think about: World history",
+    "funFact": "The Great Wall is a historic Chinese fortification.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_history_0238",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Adventure #238: Who were the builders of the pyramids at Giza?",
+    "answers": [
+      {
+        "id": "q_history_0238_c",
+        "text": "Aztecs only"
+      },
+      {
+        "id": "q_history_0238_d",
+        "text": "Romans only"
+      },
+      {
+        "id": "q_history_0238_a",
+        "text": "Ancient Egyptians"
+      },
+      {
+        "id": "q_history_0238_b",
+        "text": "Vikings"
+      }
+    ],
+    "correctAnswerId": "q_history_0238_a",
+    "explanation": "The pyramids of Giza were built by ancient Egyptians.",
+    "hint": "Think about: World history",
+    "funFact": "The pyramids of Giza were built by ancient Egyptians.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_history_0239",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Adventure #239: What did the Wright brothers invent a famous early version of?",
+    "answers": [
+      {
+        "id": "q_history_0239_d",
+        "text": "Car only"
+      },
+      {
+        "id": "q_history_0239_a",
+        "text": "Airplane"
+      },
+      {
+        "id": "q_history_0239_b",
+        "text": "Telephone"
+      },
+      {
+        "id": "q_history_0239_c",
+        "text": "Light bulb"
+      }
+    ],
+    "correctAnswerId": "q_history_0239_a",
+    "explanation": "They pioneered powered flight.",
+    "hint": "Think about: Invention history",
+    "funFact": "They pioneered powered flight.",
+    "sourceName": "Invention history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_history_0240",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Adventure #240: Ancient Rome was in which modern country area?",
+    "answers": [
+      {
+        "id": "q_history_0240_d",
+        "text": "Australia"
+      },
+      {
+        "id": "q_history_0240_a",
+        "text": "Italy"
+      },
+      {
+        "id": "q_history_0240_b",
+        "text": "Japan"
+      },
+      {
+        "id": "q_history_0240_c",
+        "text": "Brazil"
+      }
+    ],
+    "correctAnswerId": "q_history_0240_a",
+    "explanation": "Rome is in Italy.",
+    "hint": "Think about: World history",
+    "funFact": "Rome is in Italy.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_history_0241",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "History",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Adventure #241: What wall is famous in China?",
+    "answers": [
+      {
+        "id": "q_history_0241_a",
+        "text": "Great Wall"
+      },
+      {
+        "id": "q_history_0241_b",
+        "text": "Berlin Wall only"
+      },
+      {
+        "id": "q_history_0241_c",
+        "text": "Hadrian only"
+      },
+      {
+        "id": "q_history_0241_d",
+        "text": "Garden fence"
+      }
+    ],
+    "correctAnswerId": "q_history_0241_a",
+    "explanation": "The Great Wall is a historic Chinese fortification.",
+    "hint": "Think about: World history",
+    "funFact": "The Great Wall is a historic Chinese fortification.",
+    "sourceName": "World history",
+    "licence": "original-paraphrase",
+    "tags": [
+      "history",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

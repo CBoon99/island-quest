@@ -1,0 +1,51 @@
+.header {
+  margin-bottom: var(--space-4);
+}
+
+.grid {
+  display: grid;
+  gap: var(--space-3);
+}
+
+@media (min-width: 640px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.child p {
+  margin: 4px 0;
+}
+
+.reward {
+  margin: var(--space-4) 0;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+
+.nav a,
+.exit {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  font-weight: 700;
+  color: var(--parent-color-primary);
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font: inherit;
+}
+
+.board {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.board li {
+  margin: 4px 0;
+}

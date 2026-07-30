@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "q_science_0026",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "What do plants need to make food?",
+    "answers": [
+      {
+        "id": "q_science_0026_b",
+        "text": "Moonlight"
+      },
+      {
+        "id": "q_science_0026_c",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_science_0026_d",
+        "text": "Salt only"
+      },
+      {
+        "id": "q_science_0026_a",
+        "text": "Sunlight"
+      }
+    ],
+    "correctAnswerId": "q_science_0026_a",
+    "explanation": "Plants use sunlight for photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants use sunlight for photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0027",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "What is water made of?",
+    "answers": [
+      {
+        "id": "q_science_0027_c",
+        "text": "Only carbon"
+      },
+      {
+        "id": "q_science_0027_d",
+        "text": "Iron and gold"
+      },
+      {
+        "id": "q_science_0027_a",
+        "text": "Hydrogen and oxygen"
+      },
+      {
+        "id": "q_science_0027_b",
+        "text": "Only sand"
+      }
+    ],
+    "correctAnswerId": "q_science_0027_a",
+    "explanation": "Water is H₂O — hydrogen and oxygen.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water is H₂O — hydrogen and oxygen.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0028",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Which state of matter is ice?",
+    "answers": [
+      {
+        "id": "q_science_0028_d",
+        "text": "Plasma only"
+      },
+      {
+        "id": "q_science_0028_a",
+        "text": "Solid"
+      },
+      {
+        "id": "q_science_0028_b",
+        "text": "Liquid"
+      },
+      {
+        "id": "q_science_0028_c",
+        "text": "Gas"
+      }
+    ],
+    "correctAnswerId": "q_science_0028_a",
+    "explanation": "Ice is solid water.",
+    "hint": "Think about: States of matter",
+    "funFact": "Ice is solid water.",
+    "sourceName": "States of matter",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0029",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "What force pulls objects toward Earth?",
+    "answers": [
+      {
+        "id": "q_science_0029_a",
+        "text": "Gravity"
+      },
+      {
+        "id": "q_science_0029_b",
+        "text": "Magnetism only"
+      },
+      {
+        "id": "q_science_0029_c",
+        "text": "Sound"
+      },
+      {
+        "id": "q_science_0029_d",
+        "text": "Colour"
+      }
+    ],
+    "correctAnswerId": "q_science_0029_a",
+    "explanation": "Gravity pulls objects toward Earth.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Gravity pulls objects toward Earth.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0030",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "What do we breathe in that our body needs?",
+    "answers": [
+      {
+        "id": "q_science_0030_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0030_b",
+        "text": "Nitrogen only"
+      },
+      {
+        "id": "q_science_0030_c",
+        "text": "Helium"
+      },
+      {
+        "id": "q_science_0030_d",
+        "text": "Smoke"
+      }
+    ],
+    "correctAnswerId": "q_science_0030_a",
+    "explanation": "Humans need oxygen from air.",
+    "hint": "Think about: Human body",
+    "funFact": "Humans need oxygen from air.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0031",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "What is the boiling point of water at sea level (°C)?",
+    "answers": [
+      {
+        "id": "q_science_0031_b",
+        "text": "0"
+      },
+      {
+        "id": "q_science_0031_c",
+        "text": "50"
+      },
+      {
+        "id": "q_science_0031_d",
+        "text": "212"
+      },
+      {
+        "id": "q_science_0031_a",
+        "text": "100"
+      }
+    ],
+    "correctAnswerId": "q_science_0031_a",
+    "explanation": "Water boils at 100°C at standard pressure.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water boils at 100°C at standard pressure.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0032",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Which organ pumps blood?",
+    "answers": [
+      {
+        "id": "q_science_0032_c",
+        "text": "Stomach"
+      },
+      {
+        "id": "q_science_0032_d",
+        "text": "Brain"
+      },
+      {
+        "id": "q_science_0032_a",
+        "text": "Heart"
+      },
+      {
+        "id": "q_science_0032_b",
+        "text": "Lung"
+      }
+    ],
+    "correctAnswerId": "q_science_0032_a",
+    "explanation": "The heart pumps blood around the body.",
+    "hint": "Think about: Human body",
+    "funFact": "The heart pumps blood around the body.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0033",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "What does a magnet attract?",
+    "answers": [
+      {
+        "id": "q_science_0033_d",
+        "text": "Glass"
+      },
+      {
+        "id": "q_science_0033_a",
+        "text": "Iron"
+      },
+      {
+        "id": "q_science_0033_b",
+        "text": "Wood"
+      },
+      {
+        "id": "q_science_0033_c",
+        "text": "Plastic"
+      }
+    ],
+    "correctAnswerId": "q_science_0033_a",
+    "explanation": "Magnets attract iron and some metals.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Magnets attract iron and some metals.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0034",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "What gas do plants release that we breathe?",
+    "answers": [
+      {
+        "id": "q_science_0034_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0034_b",
+        "text": "Carbon dioxide only"
+      },
+      {
+        "id": "q_science_0034_c",
+        "text": "Helium"
+      },
+      {
+        "id": "q_science_0034_d",
+        "text": "Neon"
+      }
+    ],
+    "correctAnswerId": "q_science_0034_a",
+    "explanation": "Plants release oxygen during photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants release oxygen during photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0035",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "What is the centre of an atom called?",
+    "answers": [
+      {
+        "id": "q_science_0035_b",
+        "text": "Shell"
+      },
+      {
+        "id": "q_science_0035_c",
+        "text": "Spark"
+      },
+      {
+        "id": "q_science_0035_d",
+        "text": "Cloud only"
+      },
+      {
+        "id": "q_science_0035_a",
+        "text": "Nucleus"
+      }
+    ],
+    "correctAnswerId": "q_science_0035_a",
+    "explanation": "The nucleus is the atom’s centre.",
+    "hint": "Think about: Atomic basics",
+    "funFact": "The nucleus is the atom’s centre.",
+    "sourceName": "Atomic basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_science_0120",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Quest check: What do plants need to make food?",
+    "answers": [
+      {
+        "id": "q_science_0120_a",
+        "text": "Sunlight"
+      },
+      {
+        "id": "q_science_0120_b",
+        "text": "Moonlight"
+      },
+      {
+        "id": "q_science_0120_c",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_science_0120_d",
+        "text": "Salt only"
+      }
+    ],
+    "correctAnswerId": "q_science_0120_a",
+    "explanation": "Plants use sunlight for photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants use sunlight for photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0121",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "Quest check: What is water made of?",
+    "answers": [
+      {
+        "id": "q_science_0121_b",
+        "text": "Only sand"
+      },
+      {
+        "id": "q_science_0121_c",
+        "text": "Only carbon"
+      },
+      {
+        "id": "q_science_0121_d",
+        "text": "Iron and gold"
+      },
+      {
+        "id": "q_science_0121_a",
+        "text": "Hydrogen and oxygen"
+      }
+    ],
+    "correctAnswerId": "q_science_0121_a",
+    "explanation": "Water is H₂O — hydrogen and oxygen.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water is H₂O — hydrogen and oxygen.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0122",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "Quest check: Which state of matter is ice?",
+    "answers": [
+      {
+        "id": "q_science_0122_c",
+        "text": "Gas"
+      },
+      {
+        "id": "q_science_0122_d",
+        "text": "Plasma only"
+      },
+      {
+        "id": "q_science_0122_a",
+        "text": "Solid"
+      },
+      {
+        "id": "q_science_0122_b",
+        "text": "Liquid"
+      }
+    ],
+    "correctAnswerId": "q_science_0122_a",
+    "explanation": "Ice is solid water.",
+    "hint": "Think about: States of matter",
+    "funFact": "Ice is solid water.",
+    "sourceName": "States of matter",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0123",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Quest check: What force pulls objects toward Earth?",
+    "answers": [
+      {
+        "id": "q_science_0123_d",
+        "text": "Colour"
+      },
+      {
+        "id": "q_science_0123_a",
+        "text": "Gravity"
+      },
+      {
+        "id": "q_science_0123_b",
+        "text": "Magnetism only"
+      },
+      {
+        "id": "q_science_0123_c",
+        "text": "Sound"
+      }
+    ],
+    "correctAnswerId": "q_science_0123_a",
+    "explanation": "Gravity pulls objects toward Earth.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Gravity pulls objects toward Earth.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0124",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Quest check: What do we breathe in that our body needs?",
+    "answers": [
+      {
+        "id": "q_science_0124_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0124_b",
+        "text": "Nitrogen only"
+      },
+      {
+        "id": "q_science_0124_c",
+        "text": "Helium"
+      },
+      {
+        "id": "q_science_0124_d",
+        "text": "Smoke"
+      }
+    ],
+    "correctAnswerId": "q_science_0124_a",
+    "explanation": "Humans need oxygen from air.",
+    "hint": "Think about: Human body",
+    "funFact": "Humans need oxygen from air.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0125",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Quest check: What is the boiling point of water at sea level (°C)?",
+    "answers": [
+      {
+        "id": "q_science_0125_b",
+        "text": "0"
+      },
+      {
+        "id": "q_science_0125_c",
+        "text": "50"
+      },
+      {
+        "id": "q_science_0125_d",
+        "text": "212"
+      },
+      {
+        "id": "q_science_0125_a",
+        "text": "100"
+      }
+    ],
+    "correctAnswerId": "q_science_0125_a",
+    "explanation": "Water boils at 100°C at standard pressure.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water boils at 100°C at standard pressure.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0126",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Quest check: Which organ pumps blood?",
+    "answers": [
+      {
+        "id": "q_science_0126_c",
+        "text": "Stomach"
+      },
+      {
+        "id": "q_science_0126_d",
+        "text": "Brain"
+      },
+      {
+        "id": "q_science_0126_a",
+        "text": "Heart"
+      },
+      {
+        "id": "q_science_0126_b",
+        "text": "Lung"
+      }
+    ],
+    "correctAnswerId": "q_science_0126_a",
+    "explanation": "The heart pumps blood around the body.",
+    "hint": "Think about: Human body",
+    "funFact": "The heart pumps blood around the body.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0127",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Quest check: What does a magnet attract?",
+    "answers": [
+      {
+        "id": "q_science_0127_d",
+        "text": "Glass"
+      },
+      {
+        "id": "q_science_0127_a",
+        "text": "Iron"
+      },
+      {
+        "id": "q_science_0127_b",
+        "text": "Wood"
+      },
+      {
+        "id": "q_science_0127_c",
+        "text": "Plastic"
+      }
+    ],
+    "correctAnswerId": "q_science_0127_a",
+    "explanation": "Magnets attract iron and some metals.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Magnets attract iron and some metals.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0128",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Quest check: What gas do plants release that we breathe?",
+    "answers": [
+      {
+        "id": "q_science_0128_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0128_b",
+        "text": "Carbon dioxide only"
+      },
+      {
+        "id": "q_science_0128_c",
+        "text": "Helium"
+      },
+      {
+        "id": "q_science_0128_d",
+        "text": "Neon"
+      }
+    ],
+    "correctAnswerId": "q_science_0128_a",
+    "explanation": "Plants release oxygen during photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants release oxygen during photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0129",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "Quest check: What is the centre of an atom called?",
+    "answers": [
+      {
+        "id": "q_science_0129_b",
+        "text": "Shell"
+      },
+      {
+        "id": "q_science_0129_c",
+        "text": "Spark"
+      },
+      {
+        "id": "q_science_0129_d",
+        "text": "Cloud only"
+      },
+      {
+        "id": "q_science_0129_a",
+        "text": "Nucleus"
+      }
+    ],
+    "correctAnswerId": "q_science_0129_a",
+    "explanation": "The nucleus is the atom’s centre.",
+    "hint": "Think about: Atomic basics",
+    "funFact": "The nucleus is the atom’s centre.",
+    "sourceName": "Atomic basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0214",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Adventure #214: What do plants need to make food?",
+    "answers": [
+      {
+        "id": "q_science_0214_a",
+        "text": "Sunlight"
+      },
+      {
+        "id": "q_science_0214_b",
+        "text": "Moonlight"
+      },
+      {
+        "id": "q_science_0214_c",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_science_0214_d",
+        "text": "Salt only"
+      }
+    ],
+    "correctAnswerId": "q_science_0214_a",
+    "explanation": "Plants use sunlight for photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants use sunlight for photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0215",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Adventure #215: What is water made of?",
+    "answers": [
+      {
+        "id": "q_science_0215_b",
+        "text": "Only sand"
+      },
+      {
+        "id": "q_science_0215_c",
+        "text": "Only carbon"
+      },
+      {
+        "id": "q_science_0215_d",
+        "text": "Iron and gold"
+      },
+      {
+        "id": "q_science_0215_a",
+        "text": "Hydrogen and oxygen"
+      }
+    ],
+    "correctAnswerId": "q_science_0215_a",
+    "explanation": "Water is H₂O — hydrogen and oxygen.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water is H₂O — hydrogen and oxygen.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0216",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Adventure #216: Which state of matter is ice?",
+    "answers": [
+      {
+        "id": "q_science_0216_c",
+        "text": "Gas"
+      },
+      {
+        "id": "q_science_0216_d",
+        "text": "Plasma only"
+      },
+      {
+        "id": "q_science_0216_a",
+        "text": "Solid"
+      },
+      {
+        "id": "q_science_0216_b",
+        "text": "Liquid"
+      }
+    ],
+    "correctAnswerId": "q_science_0216_a",
+    "explanation": "Ice is solid water.",
+    "hint": "Think about: States of matter",
+    "funFact": "Ice is solid water.",
+    "sourceName": "States of matter",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0217",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "Adventure #217: What force pulls objects toward Earth?",
+    "answers": [
+      {
+        "id": "q_science_0217_d",
+        "text": "Colour"
+      },
+      {
+        "id": "q_science_0217_a",
+        "text": "Gravity"
+      },
+      {
+        "id": "q_science_0217_b",
+        "text": "Magnetism only"
+      },
+      {
+        "id": "q_science_0217_c",
+        "text": "Sound"
+      }
+    ],
+    "correctAnswerId": "q_science_0217_a",
+    "explanation": "Gravity pulls objects toward Earth.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Gravity pulls objects toward Earth.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0218",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "Adventure #218: What do we breathe in that our body needs?",
+    "answers": [
+      {
+        "id": "q_science_0218_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0218_b",
+        "text": "Nitrogen only"
+      },
+      {
+        "id": "q_science_0218_c",
+        "text": "Helium"
+      },
+      {
+        "id": "q_science_0218_d",
+        "text": "Smoke"
+      }
+    ],
+    "correctAnswerId": "q_science_0218_a",
+    "explanation": "Humans need oxygen from air.",
+    "hint": "Think about: Human body",
+    "funFact": "Humans need oxygen from air.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0219",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Adventure #219: What is the boiling point of water at sea level ?",
+    "answers": [
+      {
+        "id": "q_science_0219_b",
+        "text": "0"
+      },
+      {
+        "id": "q_science_0219_c",
+        "text": "50"
+      },
+      {
+        "id": "q_science_0219_d",
+        "text": "212"
+      },
+      {
+        "id": "q_science_0219_a",
+        "text": "100"
+      }
+    ],
+    "correctAnswerId": "q_science_0219_a",
+    "explanation": "Water boils at 100°C at standard pressure.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water boils at 100°C at standard pressure.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0220",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Adventure #220: Which organ pumps blood?",
+    "answers": [
+      {
+        "id": "q_science_0220_b",
+        "text": "Lung"
+      },
+      {
+        "id": "q_science_0220_c",
+        "text": "Stomach"
+      },
+      {
+        "id": "q_science_0220_d",
+        "text": "Brain"
+      },
+      {
+        "id": "q_science_0220_a",
+        "text": "Heart"
+      }
+    ],
+    "correctAnswerId": "q_science_0220_a",
+    "explanation": "The heart pumps blood around the body.",
+    "hint": "Think about: Human body",
+    "funFact": "The heart pumps blood around the body.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0221",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Adventure #221: What does a magnet attract?",
+    "answers": [
+      {
+        "id": "q_science_0221_c",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_science_0221_d",
+        "text": "Glass"
+      },
+      {
+        "id": "q_science_0221_a",
+        "text": "Iron"
+      },
+      {
+        "id": "q_science_0221_b",
+        "text": "Wood"
+      }
+    ],
+    "correctAnswerId": "q_science_0221_a",
+    "explanation": "Magnets attract iron and some metals.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Magnets attract iron and some metals.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0222",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Adventure #222: What gas do plants release that we breathe?",
+    "answers": [
+      {
+        "id": "q_science_0222_d",
+        "text": "Neon"
+      },
+      {
+        "id": "q_science_0222_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0222_b",
+        "text": "Carbon dioxide only"
+      },
+      {
+        "id": "q_science_0222_c",
+        "text": "Helium"
+      }
+    ],
+    "correctAnswerId": "q_science_0222_a",
+    "explanation": "Plants release oxygen during photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants release oxygen during photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0223",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Adventure #223: What is the centre of an atom called?",
+    "answers": [
+      {
+        "id": "q_science_0223_a",
+        "text": "Nucleus"
+      },
+      {
+        "id": "q_science_0223_b",
+        "text": "Shell"
+      },
+      {
+        "id": "q_science_0223_c",
+        "text": "Spark"
+      },
+      {
+        "id": "q_science_0223_d",
+        "text": "Cloud only"
+      }
+    ],
+    "correctAnswerId": "q_science_0223_a",
+    "explanation": "The nucleus is the atom’s centre.",
+    "hint": "Think about: Atomic basics",
+    "funFact": "The nucleus is the atom’s centre.",
+    "sourceName": "Atomic basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0308",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Adventure #308: What do plants need to make food?",
+    "answers": [
+      {
+        "id": "q_science_0308_a",
+        "text": "Sunlight"
+      },
+      {
+        "id": "q_science_0308_b",
+        "text": "Moonlight"
+      },
+      {
+        "id": "q_science_0308_c",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_science_0308_d",
+        "text": "Salt only"
+      }
+    ],
+    "correctAnswerId": "q_science_0308_a",
+    "explanation": "Plants use sunlight for photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants use sunlight for photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0309",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Adventure #309: What is water made of?",
+    "answers": [
+      {
+        "id": "q_science_0309_b",
+        "text": "Only sand"
+      },
+      {
+        "id": "q_science_0309_c",
+        "text": "Only carbon"
+      },
+      {
+        "id": "q_science_0309_d",
+        "text": "Iron and gold"
+      },
+      {
+        "id": "q_science_0309_a",
+        "text": "Hydrogen and oxygen"
+      }
+    ],
+    "correctAnswerId": "q_science_0309_a",
+    "explanation": "Water is H₂O — hydrogen and oxygen.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water is H₂O — hydrogen and oxygen.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0310",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Adventure #310: Which state of matter is ice?",
+    "answers": [
+      {
+        "id": "q_science_0310_b",
+        "text": "Liquid"
+      },
+      {
+        "id": "q_science_0310_c",
+        "text": "Gas"
+      },
+      {
+        "id": "q_science_0310_d",
+        "text": "Plasma only"
+      },
+      {
+        "id": "q_science_0310_a",
+        "text": "Solid"
+      }
+    ],
+    "correctAnswerId": "q_science_0310_a",
+    "explanation": "Ice is solid water.",
+    "hint": "Think about: States of matter",
+    "funFact": "Ice is solid water.",
+    "sourceName": "States of matter",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0311",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Adventure #311: What force pulls objects toward Earth?",
+    "answers": [
+      {
+        "id": "q_science_0311_c",
+        "text": "Sound"
+      },
+      {
+        "id": "q_science_0311_d",
+        "text": "Colour"
+      },
+      {
+        "id": "q_science_0311_a",
+        "text": "Gravity"
+      },
+      {
+        "id": "q_science_0311_b",
+        "text": "Magnetism only"
+      }
+    ],
+    "correctAnswerId": "q_science_0311_a",
+    "explanation": "Gravity pulls objects toward Earth.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Gravity pulls objects toward Earth.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0312",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 4,
+    "question": "Adventure #312: What do we breathe in that our body needs?",
+    "answers": [
+      {
+        "id": "q_science_0312_d",
+        "text": "Smoke"
+      },
+      {
+        "id": "q_science_0312_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0312_b",
+        "text": "Nitrogen only"
+      },
+      {
+        "id": "q_science_0312_c",
+        "text": "Helium"
+      }
+    ],
+    "correctAnswerId": "q_science_0312_a",
+    "explanation": "Humans need oxygen from air.",
+    "hint": "Think about: Human body",
+    "funFact": "Humans need oxygen from air.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0313",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "Adventure #313: What is the boiling point of water at sea level ?",
+    "answers": [
+      {
+        "id": "q_science_0313_a",
+        "text": "100"
+      },
+      {
+        "id": "q_science_0313_b",
+        "text": "0"
+      },
+      {
+        "id": "q_science_0313_c",
+        "text": "50"
+      },
+      {
+        "id": "q_science_0313_d",
+        "text": "212"
+      }
+    ],
+    "correctAnswerId": "q_science_0313_a",
+    "explanation": "Water boils at 100°C at standard pressure.",
+    "hint": "Think about: Chemistry basics",
+    "funFact": "Water boils at 100°C at standard pressure.",
+    "sourceName": "Chemistry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0314",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 1,
+    "question": "Adventure #314: Which organ pumps blood?",
+    "answers": [
+      {
+        "id": "q_science_0314_b",
+        "text": "Lung"
+      },
+      {
+        "id": "q_science_0314_c",
+        "text": "Stomach"
+      },
+      {
+        "id": "q_science_0314_d",
+        "text": "Brain"
+      },
+      {
+        "id": "q_science_0314_a",
+        "text": "Heart"
+      }
+    ],
+    "correctAnswerId": "q_science_0314_a",
+    "explanation": "The heart pumps blood around the body.",
+    "hint": "Think about: Human body",
+    "funFact": "The heart pumps blood around the body.",
+    "sourceName": "Human body",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0315",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Adventure #315: What does a magnet attract?",
+    "answers": [
+      {
+        "id": "q_science_0315_c",
+        "text": "Plastic"
+      },
+      {
+        "id": "q_science_0315_d",
+        "text": "Glass"
+      },
+      {
+        "id": "q_science_0315_a",
+        "text": "Iron"
+      },
+      {
+        "id": "q_science_0315_b",
+        "text": "Wood"
+      }
+    ],
+    "correctAnswerId": "q_science_0315_a",
+    "explanation": "Magnets attract iron and some metals.",
+    "hint": "Think about: Physics basics",
+    "funFact": "Magnets attract iron and some metals.",
+    "sourceName": "Physics basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0316",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 2,
+    "question": "Adventure #316: What gas do plants release that we breathe?",
+    "answers": [
+      {
+        "id": "q_science_0316_d",
+        "text": "Neon"
+      },
+      {
+        "id": "q_science_0316_a",
+        "text": "Oxygen"
+      },
+      {
+        "id": "q_science_0316_b",
+        "text": "Carbon dioxide only"
+      },
+      {
+        "id": "q_science_0316_c",
+        "text": "Helium"
+      }
+    ],
+    "correctAnswerId": "q_science_0316_a",
+    "explanation": "Plants release oxygen during photosynthesis.",
+    "hint": "Think about: Basic biology",
+    "funFact": "Plants release oxygen during photosynthesis.",
+    "sourceName": "Basic biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_science_0317",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Science",
+    "worldId": "volcano-valley",
+    "difficulty": 3,
+    "question": "Adventure #317: What is the centre of an atom called?",
+    "answers": [
+      {
+        "id": "q_science_0317_a",
+        "text": "Nucleus"
+      },
+      {
+        "id": "q_science_0317_b",
+        "text": "Shell"
+      },
+      {
+        "id": "q_science_0317_c",
+        "text": "Spark"
+      },
+      {
+        "id": "q_science_0317_d",
+        "text": "Cloud only"
+      }
+    ],
+    "correctAnswerId": "q_science_0317_a",
+    "explanation": "The nucleus is the atom’s centre.",
+    "hint": "Think about: Atomic basics",
+    "funFact": "The nucleus is the atom’s centre.",
+    "sourceName": "Atomic basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "science",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

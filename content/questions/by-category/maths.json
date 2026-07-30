@@ -1,0 +1,2297 @@
+[
+  {
+    "id": "q_maths_0001",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "What is 2 + 3?",
+    "answers": [
+      {
+        "id": "q_maths_0001_b",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0001_c",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0001_d",
+        "text": "3"
+      },
+      {
+        "id": "q_maths_0001_a",
+        "text": "5"
+      }
+    ],
+    "correctAnswerId": "q_maths_0001_a",
+    "explanation": "Two plus three equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Two plus three equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0002",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "What is 7 − 2?",
+    "answers": [
+      {
+        "id": "q_maths_0002_c",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0002_d",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0002_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0002_b",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0002_a",
+    "explanation": "Seven minus two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Seven minus two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0003",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "What is 4 × 2?",
+    "answers": [
+      {
+        "id": "q_maths_0003_d",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0003_a",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0003_b",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0003_c",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0003_a",
+    "explanation": "Four times two equals eight.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Four times two equals eight.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0004",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "What is 10 ÷ 2?",
+    "answers": [
+      {
+        "id": "q_maths_0004_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0004_b",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0004_c",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0004_d",
+        "text": "20"
+      }
+    ],
+    "correctAnswerId": "q_maths_0004_a",
+    "explanation": "Ten divided by two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Ten divided by two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0005",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "How many sides does a triangle have?",
+    "answers": [
+      {
+        "id": "q_maths_0005_b",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0005_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0005_d",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0005_a",
+        "text": "3"
+      }
+    ],
+    "correctAnswerId": "q_maths_0005_a",
+    "explanation": "A triangle has three sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A triangle has three sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0006",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "How many sides does a square have?",
+    "answers": [
+      {
+        "id": "q_maths_0006_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0006_d",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0006_a",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0006_b",
+        "text": "3"
+      }
+    ],
+    "correctAnswerId": "q_maths_0006_a",
+    "explanation": "A square has four equal sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A square has four equal sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0007",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "What is half of 10?",
+    "answers": [
+      {
+        "id": "q_maths_0007_d",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0007_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0007_b",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0007_c",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0007_a",
+    "explanation": "Half of ten is five.",
+    "hint": "Think about: Fractions basics",
+    "funFact": "Half of ten is five.",
+    "sourceName": "Fractions basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0008",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "What is 9 + 1?",
+    "answers": [
+      {
+        "id": "q_maths_0008_a",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0008_b",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0008_c",
+        "text": "11"
+      },
+      {
+        "id": "q_maths_0008_d",
+        "text": "9"
+      }
+    ],
+    "correctAnswerId": "q_maths_0008_a",
+    "explanation": "Nine plus one equals ten.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Nine plus one equals ten.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0009",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "What is 6 × 3?",
+    "answers": [
+      {
+        "id": "q_maths_0009_b",
+        "text": "12"
+      },
+      {
+        "id": "q_maths_0009_c",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0009_d",
+        "text": "21"
+      },
+      {
+        "id": "q_maths_0009_a",
+        "text": "18"
+      }
+    ],
+    "correctAnswerId": "q_maths_0009_a",
+    "explanation": "Six times three equals eighteen.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Six times three equals eighteen.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0010",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "What is 100 − 25?",
+    "answers": [
+      {
+        "id": "q_maths_0010_b",
+        "text": "50"
+      },
+      {
+        "id": "q_maths_0010_c",
+        "text": "80"
+      },
+      {
+        "id": "q_maths_0010_d",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0010_a",
+        "text": "75"
+      }
+    ],
+    "correctAnswerId": "q_maths_0010_a",
+    "explanation": "One hundred minus twenty-five is seventy-five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "One hundred minus twenty-five is seventy-five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0011",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "What is 5² ?",
+    "answers": [
+      {
+        "id": "q_maths_0011_c",
+        "text": "15"
+      },
+      {
+        "id": "q_maths_0011_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0011_a",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0011_b",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0011_a",
+    "explanation": "Five squared means 5 × 5 = 25.",
+    "hint": "Think about: Exponents intro",
+    "funFact": "Five squared means 5 × 5 = 25.",
+    "sourceName": "Exponents intro",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0012",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "How many minutes are in one hour?",
+    "answers": [
+      {
+        "id": "q_maths_0012_d",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0012_a",
+        "text": "60"
+      },
+      {
+        "id": "q_maths_0012_b",
+        "text": "30"
+      },
+      {
+        "id": "q_maths_0012_c",
+        "text": "100"
+      }
+    ],
+    "correctAnswerId": "q_maths_0012_a",
+    "explanation": "There are 60 minutes in an hour.",
+    "hint": "Think about: Time measures",
+    "funFact": "There are 60 minutes in an hour.",
+    "sourceName": "Time measures",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0013",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "What is 3 × 7?",
+    "answers": [
+      {
+        "id": "q_maths_0013_a",
+        "text": "21"
+      },
+      {
+        "id": "q_maths_0013_b",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0013_c",
+        "text": "14"
+      },
+      {
+        "id": "q_maths_0013_d",
+        "text": "28"
+      }
+    ],
+    "correctAnswerId": "q_maths_0013_a",
+    "explanation": "Three times seven equals twenty-one.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Three times seven equals twenty-one.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0014",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "What is 12 + 8?",
+    "answers": [
+      {
+        "id": "q_maths_0014_b",
+        "text": "18"
+      },
+      {
+        "id": "q_maths_0014_c",
+        "text": "22"
+      },
+      {
+        "id": "q_maths_0014_d",
+        "text": "16"
+      },
+      {
+        "id": "q_maths_0014_a",
+        "text": "20"
+      }
+    ],
+    "correctAnswerId": "q_maths_0014_a",
+    "explanation": "Twelve plus eight equals twenty.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Twelve plus eight equals twenty.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0015",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "What is 50% of 20?",
+    "answers": [
+      {
+        "id": "q_maths_0015_c",
+        "text": "15"
+      },
+      {
+        "id": "q_maths_0015_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0015_a",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0015_b",
+        "text": "5"
+      }
+    ],
+    "correctAnswerId": "q_maths_0015_a",
+    "explanation": "50 percent means half, so half of 20 is 10.",
+    "hint": "Think about: Percent basics",
+    "funFact": "50 percent means half, so half of 20 is 10.",
+    "sourceName": "Percent basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0095",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Quest check: What is 2 + 3?",
+    "answers": [
+      {
+        "id": "q_maths_0095_c",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0095_d",
+        "text": "3"
+      },
+      {
+        "id": "q_maths_0095_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0095_b",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0095_a",
+    "explanation": "Two plus three equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Two plus three equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0096",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Quest check: What is 7 − 2?",
+    "answers": [
+      {
+        "id": "q_maths_0096_d",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0096_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0096_b",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0096_c",
+        "text": "6"
+      }
+    ],
+    "correctAnswerId": "q_maths_0096_a",
+    "explanation": "Seven minus two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Seven minus two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0097",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Quest check: What is 4 × 2?",
+    "answers": [
+      {
+        "id": "q_maths_0097_a",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0097_b",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0097_c",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0097_d",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0097_a",
+    "explanation": "Four times two equals eight.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Four times two equals eight.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0098",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Quest check: What is 10 ÷ 2?",
+    "answers": [
+      {
+        "id": "q_maths_0098_b",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0098_c",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0098_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0098_a",
+        "text": "5"
+      }
+    ],
+    "correctAnswerId": "q_maths_0098_a",
+    "explanation": "Ten divided by two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Ten divided by two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0099",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Quest check: How many sides does a triangle have?",
+    "answers": [
+      {
+        "id": "q_maths_0099_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0099_d",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0099_a",
+        "text": "3"
+      },
+      {
+        "id": "q_maths_0099_b",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0099_a",
+    "explanation": "A triangle has three sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A triangle has three sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0100",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Quest check: How many sides does a square have?",
+    "answers": [
+      {
+        "id": "q_maths_0100_b",
+        "text": "3"
+      },
+      {
+        "id": "q_maths_0100_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0100_d",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0100_a",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0100_a",
+    "explanation": "A square has four equal sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A square has four equal sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0101",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Quest check: What is half of 10?",
+    "answers": [
+      {
+        "id": "q_maths_0101_c",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0101_d",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0101_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0101_b",
+        "text": "2"
+      }
+    ],
+    "correctAnswerId": "q_maths_0101_a",
+    "explanation": "Half of ten is five.",
+    "hint": "Think about: Fractions basics",
+    "funFact": "Half of ten is five.",
+    "sourceName": "Fractions basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0102",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Quest check: What is 9 + 1?",
+    "answers": [
+      {
+        "id": "q_maths_0102_d",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0102_a",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0102_b",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0102_c",
+        "text": "11"
+      }
+    ],
+    "correctAnswerId": "q_maths_0102_a",
+    "explanation": "Nine plus one equals ten.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Nine plus one equals ten.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0103",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Quest check: What is 6 × 3?",
+    "answers": [
+      {
+        "id": "q_maths_0103_a",
+        "text": "18"
+      },
+      {
+        "id": "q_maths_0103_b",
+        "text": "12"
+      },
+      {
+        "id": "q_maths_0103_c",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0103_d",
+        "text": "21"
+      }
+    ],
+    "correctAnswerId": "q_maths_0103_a",
+    "explanation": "Six times three equals eighteen.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Six times three equals eighteen.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0104",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Quest check: What is 100 − 25?",
+    "answers": [
+      {
+        "id": "q_maths_0104_b",
+        "text": "50"
+      },
+      {
+        "id": "q_maths_0104_c",
+        "text": "80"
+      },
+      {
+        "id": "q_maths_0104_d",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0104_a",
+        "text": "75"
+      }
+    ],
+    "correctAnswerId": "q_maths_0104_a",
+    "explanation": "One hundred minus twenty-five is seventy-five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "One hundred minus twenty-five is seventy-five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0105",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Quest check: What is 5² ?",
+    "answers": [
+      {
+        "id": "q_maths_0105_c",
+        "text": "15"
+      },
+      {
+        "id": "q_maths_0105_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0105_a",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0105_b",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0105_a",
+    "explanation": "Five squared means 5 × 5 = 25.",
+    "hint": "Think about: Exponents intro",
+    "funFact": "Five squared means 5 × 5 = 25.",
+    "sourceName": "Exponents intro",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0106",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Quest check: How many minutes are in one hour?",
+    "answers": [
+      {
+        "id": "q_maths_0106_d",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0106_a",
+        "text": "60"
+      },
+      {
+        "id": "q_maths_0106_b",
+        "text": "30"
+      },
+      {
+        "id": "q_maths_0106_c",
+        "text": "100"
+      }
+    ],
+    "correctAnswerId": "q_maths_0106_a",
+    "explanation": "There are 60 minutes in an hour.",
+    "hint": "Think about: Time measures",
+    "funFact": "There are 60 minutes in an hour.",
+    "sourceName": "Time measures",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0107",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Quest check: What is 3 × 7?",
+    "answers": [
+      {
+        "id": "q_maths_0107_a",
+        "text": "21"
+      },
+      {
+        "id": "q_maths_0107_b",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0107_c",
+        "text": "14"
+      },
+      {
+        "id": "q_maths_0107_d",
+        "text": "28"
+      }
+    ],
+    "correctAnswerId": "q_maths_0107_a",
+    "explanation": "Three times seven equals twenty-one.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Three times seven equals twenty-one.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0108",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Quest check: What is 12 + 8?",
+    "answers": [
+      {
+        "id": "q_maths_0108_b",
+        "text": "18"
+      },
+      {
+        "id": "q_maths_0108_c",
+        "text": "22"
+      },
+      {
+        "id": "q_maths_0108_d",
+        "text": "16"
+      },
+      {
+        "id": "q_maths_0108_a",
+        "text": "20"
+      }
+    ],
+    "correctAnswerId": "q_maths_0108_a",
+    "explanation": "Twelve plus eight equals twenty.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Twelve plus eight equals twenty.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0109",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Quest check: What is 50% of 20?",
+    "answers": [
+      {
+        "id": "q_maths_0109_c",
+        "text": "15"
+      },
+      {
+        "id": "q_maths_0109_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0109_a",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0109_b",
+        "text": "5"
+      }
+    ],
+    "correctAnswerId": "q_maths_0109_a",
+    "explanation": "50 percent means half, so half of 20 is 10.",
+    "hint": "Think about: Percent basics",
+    "funFact": "50 percent means half, so half of 20 is 10.",
+    "sourceName": "Percent basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0189",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #189: What is 2 + 3?",
+    "answers": [
+      {
+        "id": "q_maths_0189_c",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0189_d",
+        "text": "3"
+      },
+      {
+        "id": "q_maths_0189_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0189_b",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0189_a",
+    "explanation": "Two plus three equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Two plus three equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0190",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #190: What is 7 − 2?",
+    "answers": [
+      {
+        "id": "q_maths_0190_c",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0190_d",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0190_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0190_b",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0190_a",
+    "explanation": "Seven minus two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Seven minus two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0191",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #191: What is 4 × 2?",
+    "answers": [
+      {
+        "id": "q_maths_0191_d",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0191_a",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0191_b",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0191_c",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0191_a",
+    "explanation": "Four times two equals eight.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Four times two equals eight.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0192",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #192: What is 10 ÷ 2?",
+    "answers": [
+      {
+        "id": "q_maths_0192_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0192_b",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0192_c",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0192_d",
+        "text": "20"
+      }
+    ],
+    "correctAnswerId": "q_maths_0192_a",
+    "explanation": "Ten divided by two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Ten divided by two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0193",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #193: How many sides does a triangle have?",
+    "answers": [
+      {
+        "id": "q_maths_0193_b",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0193_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0193_d",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0193_a",
+        "text": "3"
+      }
+    ],
+    "correctAnswerId": "q_maths_0193_a",
+    "explanation": "A triangle has three sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A triangle has three sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0194",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #194: How many sides does a square have?",
+    "answers": [
+      {
+        "id": "q_maths_0194_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0194_d",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0194_a",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0194_b",
+        "text": "3"
+      }
+    ],
+    "correctAnswerId": "q_maths_0194_a",
+    "explanation": "A square has four equal sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A square has four equal sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0195",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #195: What is half of 10?",
+    "answers": [
+      {
+        "id": "q_maths_0195_d",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0195_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0195_b",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0195_c",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0195_a",
+    "explanation": "Half of ten is five.",
+    "hint": "Think about: Fractions basics",
+    "funFact": "Half of ten is five.",
+    "sourceName": "Fractions basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0196",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #196: What is 9 + 1?",
+    "answers": [
+      {
+        "id": "q_maths_0196_a",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0196_b",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0196_c",
+        "text": "11"
+      },
+      {
+        "id": "q_maths_0196_d",
+        "text": "9"
+      }
+    ],
+    "correctAnswerId": "q_maths_0196_a",
+    "explanation": "Nine plus one equals ten.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Nine plus one equals ten.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0197",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #197: What is 6 × 3?",
+    "answers": [
+      {
+        "id": "q_maths_0197_b",
+        "text": "12"
+      },
+      {
+        "id": "q_maths_0197_c",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0197_d",
+        "text": "21"
+      },
+      {
+        "id": "q_maths_0197_a",
+        "text": "18"
+      }
+    ],
+    "correctAnswerId": "q_maths_0197_a",
+    "explanation": "Six times three equals eighteen.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Six times three equals eighteen.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0198",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #198: What is 100 − 25?",
+    "answers": [
+      {
+        "id": "q_maths_0198_c",
+        "text": "80"
+      },
+      {
+        "id": "q_maths_0198_d",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0198_a",
+        "text": "75"
+      },
+      {
+        "id": "q_maths_0198_b",
+        "text": "50"
+      }
+    ],
+    "correctAnswerId": "q_maths_0198_a",
+    "explanation": "One hundred minus twenty-five is seventy-five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "One hundred minus twenty-five is seventy-five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0199",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #199: What is 5² (five squared)?",
+    "answers": [
+      {
+        "id": "q_maths_0199_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0199_a",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0199_b",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0199_c",
+        "text": "15"
+      }
+    ],
+    "correctAnswerId": "q_maths_0199_a",
+    "explanation": "Five squared means 5 × 5 = 25.",
+    "hint": "Think about: Exponents intro",
+    "funFact": "Five squared means 5 × 5 = 25.",
+    "sourceName": "Exponents intro",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0200",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #200: How many minutes are in one hour?",
+    "answers": [
+      {
+        "id": "q_maths_0200_c",
+        "text": "100"
+      },
+      {
+        "id": "q_maths_0200_d",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0200_a",
+        "text": "60"
+      },
+      {
+        "id": "q_maths_0200_b",
+        "text": "30"
+      }
+    ],
+    "correctAnswerId": "q_maths_0200_a",
+    "explanation": "There are 60 minutes in an hour.",
+    "hint": "Think about: Time measures",
+    "funFact": "There are 60 minutes in an hour.",
+    "sourceName": "Time measures",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0201",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #201: What is 3 × 7?",
+    "answers": [
+      {
+        "id": "q_maths_0201_d",
+        "text": "28"
+      },
+      {
+        "id": "q_maths_0201_a",
+        "text": "21"
+      },
+      {
+        "id": "q_maths_0201_b",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0201_c",
+        "text": "14"
+      }
+    ],
+    "correctAnswerId": "q_maths_0201_a",
+    "explanation": "Three times seven equals twenty-one.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Three times seven equals twenty-one.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0202",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #202: What is 12 + 8?",
+    "answers": [
+      {
+        "id": "q_maths_0202_a",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0202_b",
+        "text": "18"
+      },
+      {
+        "id": "q_maths_0202_c",
+        "text": "22"
+      },
+      {
+        "id": "q_maths_0202_d",
+        "text": "16"
+      }
+    ],
+    "correctAnswerId": "q_maths_0202_a",
+    "explanation": "Twelve plus eight equals twenty.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Twelve plus eight equals twenty.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0203",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #203: What is 50% of 20?",
+    "answers": [
+      {
+        "id": "q_maths_0203_b",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0203_c",
+        "text": "15"
+      },
+      {
+        "id": "q_maths_0203_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0203_a",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0203_a",
+    "explanation": "50 percent means half, so half of 20 is 10.",
+    "hint": "Think about: Percent basics",
+    "funFact": "50 percent means half, so half of 20 is 10.",
+    "sourceName": "Percent basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0283",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #283: What is 2 + 3?",
+    "answers": [
+      {
+        "id": "q_maths_0283_b",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0283_c",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0283_d",
+        "text": "3"
+      },
+      {
+        "id": "q_maths_0283_a",
+        "text": "5"
+      }
+    ],
+    "correctAnswerId": "q_maths_0283_a",
+    "explanation": "Two plus three equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Two plus three equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0284",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #284: What is 7 − 2?",
+    "answers": [
+      {
+        "id": "q_maths_0284_c",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0284_d",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0284_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0284_b",
+        "text": "4"
+      }
+    ],
+    "correctAnswerId": "q_maths_0284_a",
+    "explanation": "Seven minus two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Seven minus two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0285",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #285: What is 4 × 2?",
+    "answers": [
+      {
+        "id": "q_maths_0285_d",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0285_a",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0285_b",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0285_c",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0285_a",
+    "explanation": "Four times two equals eight.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Four times two equals eight.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0286",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #286: What is 10 ÷ 2?",
+    "answers": [
+      {
+        "id": "q_maths_0286_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0286_b",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0286_c",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0286_d",
+        "text": "20"
+      }
+    ],
+    "correctAnswerId": "q_maths_0286_a",
+    "explanation": "Ten divided by two equals five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Ten divided by two equals five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0287",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #287: How many sides does a triangle have?",
+    "answers": [
+      {
+        "id": "q_maths_0287_b",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0287_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0287_d",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0287_a",
+        "text": "3"
+      }
+    ],
+    "correctAnswerId": "q_maths_0287_a",
+    "explanation": "A triangle has three sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A triangle has three sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0288",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #288: How many sides does a square have?",
+    "answers": [
+      {
+        "id": "q_maths_0288_c",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0288_d",
+        "text": "6"
+      },
+      {
+        "id": "q_maths_0288_a",
+        "text": "4"
+      },
+      {
+        "id": "q_maths_0288_b",
+        "text": "3"
+      }
+    ],
+    "correctAnswerId": "q_maths_0288_a",
+    "explanation": "A square has four equal sides.",
+    "hint": "Think about: Geometry basics",
+    "funFact": "A square has four equal sides.",
+    "sourceName": "Geometry basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0289",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #289: What is half of 10?",
+    "answers": [
+      {
+        "id": "q_maths_0289_d",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0289_a",
+        "text": "5"
+      },
+      {
+        "id": "q_maths_0289_b",
+        "text": "2"
+      },
+      {
+        "id": "q_maths_0289_c",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0289_a",
+    "explanation": "Half of ten is five.",
+    "hint": "Think about: Fractions basics",
+    "funFact": "Half of ten is five.",
+    "sourceName": "Fractions basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0290",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #290: What is 9 + 1?",
+    "answers": [
+      {
+        "id": "q_maths_0290_d",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0290_a",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0290_b",
+        "text": "8"
+      },
+      {
+        "id": "q_maths_0290_c",
+        "text": "11"
+      }
+    ],
+    "correctAnswerId": "q_maths_0290_a",
+    "explanation": "Nine plus one equals ten.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Nine plus one equals ten.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0291",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #291: What is 6 × 3?",
+    "answers": [
+      {
+        "id": "q_maths_0291_a",
+        "text": "18"
+      },
+      {
+        "id": "q_maths_0291_b",
+        "text": "12"
+      },
+      {
+        "id": "q_maths_0291_c",
+        "text": "9"
+      },
+      {
+        "id": "q_maths_0291_d",
+        "text": "21"
+      }
+    ],
+    "correctAnswerId": "q_maths_0291_a",
+    "explanation": "Six times three equals eighteen.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Six times three equals eighteen.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0292",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #292: What is 100 − 25?",
+    "answers": [
+      {
+        "id": "q_maths_0292_b",
+        "text": "50"
+      },
+      {
+        "id": "q_maths_0292_c",
+        "text": "80"
+      },
+      {
+        "id": "q_maths_0292_d",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0292_a",
+        "text": "75"
+      }
+    ],
+    "correctAnswerId": "q_maths_0292_a",
+    "explanation": "One hundred minus twenty-five is seventy-five.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "One hundred minus twenty-five is seventy-five.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0293",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #293: What is 5² (five squared)?",
+    "answers": [
+      {
+        "id": "q_maths_0293_c",
+        "text": "15"
+      },
+      {
+        "id": "q_maths_0293_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0293_a",
+        "text": "25"
+      },
+      {
+        "id": "q_maths_0293_b",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_maths_0293_a",
+    "explanation": "Five squared means 5 × 5 = 25.",
+    "hint": "Think about: Exponents intro",
+    "funFact": "Five squared means 5 × 5 = 25.",
+    "sourceName": "Exponents intro",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0294",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Adventure #294: How many minutes are in one hour?",
+    "answers": [
+      {
+        "id": "q_maths_0294_d",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0294_a",
+        "text": "60"
+      },
+      {
+        "id": "q_maths_0294_b",
+        "text": "30"
+      },
+      {
+        "id": "q_maths_0294_c",
+        "text": "100"
+      }
+    ],
+    "correctAnswerId": "q_maths_0294_a",
+    "explanation": "There are 60 minutes in an hour.",
+    "hint": "Think about: Time measures",
+    "funFact": "There are 60 minutes in an hour.",
+    "sourceName": "Time measures",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0295",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #295: What is 3 × 7?",
+    "answers": [
+      {
+        "id": "q_maths_0295_a",
+        "text": "21"
+      },
+      {
+        "id": "q_maths_0295_b",
+        "text": "24"
+      },
+      {
+        "id": "q_maths_0295_c",
+        "text": "14"
+      },
+      {
+        "id": "q_maths_0295_d",
+        "text": "28"
+      }
+    ],
+    "correctAnswerId": "q_maths_0295_a",
+    "explanation": "Three times seven equals twenty-one.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Three times seven equals twenty-one.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0296",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #296: What is 12 + 8?",
+    "answers": [
+      {
+        "id": "q_maths_0296_b",
+        "text": "18"
+      },
+      {
+        "id": "q_maths_0296_c",
+        "text": "22"
+      },
+      {
+        "id": "q_maths_0296_d",
+        "text": "16"
+      },
+      {
+        "id": "q_maths_0296_a",
+        "text": "20"
+      }
+    ],
+    "correctAnswerId": "q_maths_0296_a",
+    "explanation": "Twelve plus eight equals twenty.",
+    "hint": "Think about: Basic arithmetic",
+    "funFact": "Twelve plus eight equals twenty.",
+    "sourceName": "Basic arithmetic",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_maths_0297",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Numbers and Maths",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #297: What is 50% of 20?",
+    "answers": [
+      {
+        "id": "q_maths_0297_c",
+        "text": "15"
+      },
+      {
+        "id": "q_maths_0297_d",
+        "text": "20"
+      },
+      {
+        "id": "q_maths_0297_a",
+        "text": "10"
+      },
+      {
+        "id": "q_maths_0297_b",
+        "text": "5"
+      }
+    ],
+    "correctAnswerId": "q_maths_0297_a",
+    "explanation": "50 percent means half, so half of 20 is 10.",
+    "hint": "Think about: Percent basics",
+    "funFact": "50 percent means half, so half of 20 is 10.",
+    "sourceName": "Percent basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "maths",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

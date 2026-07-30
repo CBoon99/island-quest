@@ -1,0 +1,692 @@
+[
+  {
+    "id": "q_ocean_0061",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "What animal has eight arms and lives in the sea?",
+    "answers": [
+      {
+        "id": "q_ocean_0061_a",
+        "text": "Octopus"
+      },
+      {
+        "id": "q_ocean_0061_b",
+        "text": "Dolphin"
+      },
+      {
+        "id": "q_ocean_0061_c",
+        "text": "Shark"
+      },
+      {
+        "id": "q_ocean_0061_d",
+        "text": "Crab only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0061_a",
+    "explanation": "Octopuses have eight arms.",
+    "hint": "Think about: Marine biology basics",
+    "funFact": "Octopuses have eight arms.",
+    "sourceName": "Marine biology basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0062",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "What is the largest animal on Earth?",
+    "answers": [
+      {
+        "id": "q_ocean_0062_b",
+        "text": "Elephant"
+      },
+      {
+        "id": "q_ocean_0062_c",
+        "text": "Great white shark"
+      },
+      {
+        "id": "q_ocean_0062_d",
+        "text": "Giant squid only"
+      },
+      {
+        "id": "q_ocean_0062_a",
+        "text": "Blue whale"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0062_a",
+    "explanation": "Blue whales are the largest animals known.",
+    "hint": "Think about: Marine biology",
+    "funFact": "Blue whales are the largest animals known.",
+    "sourceName": "Marine biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0063",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Coral reefs are built mainly by what living things?",
+    "answers": [
+      {
+        "id": "q_ocean_0063_c",
+        "text": "Volcanoes only"
+      },
+      {
+        "id": "q_ocean_0063_d",
+        "text": "Icebergs"
+      },
+      {
+        "id": "q_ocean_0063_a",
+        "text": "Coral polyps"
+      },
+      {
+        "id": "q_ocean_0063_b",
+        "text": "Clouds"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0063_a",
+    "explanation": "Tiny coral animals build reefs over time.",
+    "hint": "Think about: Reef science",
+    "funFact": "Tiny coral animals build reefs over time.",
+    "sourceName": "Reef science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0064",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "What causes most ocean waves we see at the beach?",
+    "answers": [
+      {
+        "id": "q_ocean_0064_d",
+        "text": "Rainbows"
+      },
+      {
+        "id": "q_ocean_0064_a",
+        "text": "Wind"
+      },
+      {
+        "id": "q_ocean_0064_b",
+        "text": "Fish jumping only"
+      },
+      {
+        "id": "q_ocean_0064_c",
+        "text": "Sunspots only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0064_a",
+    "explanation": "Wind transfers energy to the water surface.",
+    "hint": "Think about: Ocean science",
+    "funFact": "Wind transfers energy to the water surface.",
+    "sourceName": "Ocean science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0065",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "What is salty water in seas called?",
+    "answers": [
+      {
+        "id": "q_ocean_0065_a",
+        "text": "Saltwater"
+      },
+      {
+        "id": "q_ocean_0065_b",
+        "text": "Freshwater only"
+      },
+      {
+        "id": "q_ocean_0065_c",
+        "text": "Rainwater only"
+      },
+      {
+        "id": "q_ocean_0065_d",
+        "text": "Ice water only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0065_a",
+    "explanation": "Ocean water is saltwater.",
+    "hint": "Think about: Ocean science",
+    "funFact": "Ocean water is saltwater.",
+    "sourceName": "Ocean science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0066",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Dolphins breathe using what?",
+    "answers": [
+      {
+        "id": "q_ocean_0066_b",
+        "text": "Gills only"
+      },
+      {
+        "id": "q_ocean_0066_c",
+        "text": "Leaves"
+      },
+      {
+        "id": "q_ocean_0066_d",
+        "text": "Fins only"
+      },
+      {
+        "id": "q_ocean_0066_a",
+        "text": "Lungs"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0066_a",
+    "explanation": "Dolphins are mammals and breathe air with lungs.",
+    "hint": "Think about: Marine mammals",
+    "funFact": "Dolphins are mammals and breathe air with lungs.",
+    "sourceName": "Marine mammals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0155",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Quest check: What animal has eight arms and lives in the sea?",
+    "answers": [
+      {
+        "id": "q_ocean_0155_a",
+        "text": "Octopus"
+      },
+      {
+        "id": "q_ocean_0155_b",
+        "text": "Dolphin"
+      },
+      {
+        "id": "q_ocean_0155_c",
+        "text": "Shark"
+      },
+      {
+        "id": "q_ocean_0155_d",
+        "text": "Crab only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0155_a",
+    "explanation": "Octopuses have eight arms.",
+    "hint": "Think about: Marine biology basics",
+    "funFact": "Octopuses have eight arms.",
+    "sourceName": "Marine biology basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0156",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Quest check: What is the largest animal on Earth?",
+    "answers": [
+      {
+        "id": "q_ocean_0156_b",
+        "text": "Elephant"
+      },
+      {
+        "id": "q_ocean_0156_c",
+        "text": "Great white shark"
+      },
+      {
+        "id": "q_ocean_0156_d",
+        "text": "Giant squid only"
+      },
+      {
+        "id": "q_ocean_0156_a",
+        "text": "Blue whale"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0156_a",
+    "explanation": "Blue whales are the largest animals known.",
+    "hint": "Think about: Marine biology",
+    "funFact": "Blue whales are the largest animals known.",
+    "sourceName": "Marine biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0157",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Quest check: Coral reefs are built mainly by what living things?",
+    "answers": [
+      {
+        "id": "q_ocean_0157_c",
+        "text": "Volcanoes only"
+      },
+      {
+        "id": "q_ocean_0157_d",
+        "text": "Icebergs"
+      },
+      {
+        "id": "q_ocean_0157_a",
+        "text": "Coral polyps"
+      },
+      {
+        "id": "q_ocean_0157_b",
+        "text": "Clouds"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0157_a",
+    "explanation": "Tiny coral animals build reefs over time.",
+    "hint": "Think about: Reef science",
+    "funFact": "Tiny coral animals build reefs over time.",
+    "sourceName": "Reef science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0158",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Quest check: What causes most ocean waves we see at the beach?",
+    "answers": [
+      {
+        "id": "q_ocean_0158_d",
+        "text": "Rainbows"
+      },
+      {
+        "id": "q_ocean_0158_a",
+        "text": "Wind"
+      },
+      {
+        "id": "q_ocean_0158_b",
+        "text": "Fish jumping only"
+      },
+      {
+        "id": "q_ocean_0158_c",
+        "text": "Sunspots only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0158_a",
+    "explanation": "Wind transfers energy to the water surface.",
+    "hint": "Think about: Ocean science",
+    "funFact": "Wind transfers energy to the water surface.",
+    "sourceName": "Ocean science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0159",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Quest check: What is salty water in seas called?",
+    "answers": [
+      {
+        "id": "q_ocean_0159_a",
+        "text": "Saltwater"
+      },
+      {
+        "id": "q_ocean_0159_b",
+        "text": "Freshwater only"
+      },
+      {
+        "id": "q_ocean_0159_c",
+        "text": "Rainwater only"
+      },
+      {
+        "id": "q_ocean_0159_d",
+        "text": "Ice water only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0159_a",
+    "explanation": "Ocean water is saltwater.",
+    "hint": "Think about: Ocean science",
+    "funFact": "Ocean water is saltwater.",
+    "sourceName": "Ocean science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0160",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Quest check: Dolphins breathe using what?",
+    "answers": [
+      {
+        "id": "q_ocean_0160_a",
+        "text": "Lungs"
+      },
+      {
+        "id": "q_ocean_0160_b",
+        "text": "Gills only"
+      },
+      {
+        "id": "q_ocean_0160_c",
+        "text": "Leaves"
+      },
+      {
+        "id": "q_ocean_0160_d",
+        "text": "Fins only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0160_a",
+    "explanation": "Dolphins are mammals and breathe air with lungs.",
+    "hint": "Think about: Marine mammals",
+    "funFact": "Dolphins are mammals and breathe air with lungs.",
+    "sourceName": "Marine mammals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0249",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Adventure #249: What animal has eight arms and lives in the sea?",
+    "answers": [
+      {
+        "id": "q_ocean_0249_a",
+        "text": "Octopus"
+      },
+      {
+        "id": "q_ocean_0249_b",
+        "text": "Dolphin"
+      },
+      {
+        "id": "q_ocean_0249_c",
+        "text": "Shark"
+      },
+      {
+        "id": "q_ocean_0249_d",
+        "text": "Crab only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0249_a",
+    "explanation": "Octopuses have eight arms.",
+    "hint": "Think about: Marine biology basics",
+    "funFact": "Octopuses have eight arms.",
+    "sourceName": "Marine biology basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0250",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Adventure #250: What is the largest animal on Earth?",
+    "answers": [
+      {
+        "id": "q_ocean_0250_a",
+        "text": "Blue whale"
+      },
+      {
+        "id": "q_ocean_0250_b",
+        "text": "Elephant"
+      },
+      {
+        "id": "q_ocean_0250_c",
+        "text": "Great white shark"
+      },
+      {
+        "id": "q_ocean_0250_d",
+        "text": "Giant squid only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0250_a",
+    "explanation": "Blue whales are the largest animals known.",
+    "hint": "Think about: Marine biology",
+    "funFact": "Blue whales are the largest animals known.",
+    "sourceName": "Marine biology",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0251",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Adventure #251: Coral reefs are built mainly by what living things?",
+    "answers": [
+      {
+        "id": "q_ocean_0251_b",
+        "text": "Clouds"
+      },
+      {
+        "id": "q_ocean_0251_c",
+        "text": "Volcanoes only"
+      },
+      {
+        "id": "q_ocean_0251_d",
+        "text": "Icebergs"
+      },
+      {
+        "id": "q_ocean_0251_a",
+        "text": "Coral polyps"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0251_a",
+    "explanation": "Tiny coral animals build reefs over time.",
+    "hint": "Think about: Reef science",
+    "funFact": "Tiny coral animals build reefs over time.",
+    "sourceName": "Reef science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0252",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Adventure #252: What causes most ocean waves we see at the beach?",
+    "answers": [
+      {
+        "id": "q_ocean_0252_c",
+        "text": "Sunspots only"
+      },
+      {
+        "id": "q_ocean_0252_d",
+        "text": "Rainbows"
+      },
+      {
+        "id": "q_ocean_0252_a",
+        "text": "Wind"
+      },
+      {
+        "id": "q_ocean_0252_b",
+        "text": "Fish jumping only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0252_a",
+    "explanation": "Wind transfers energy to the water surface.",
+    "hint": "Think about: Ocean science",
+    "funFact": "Wind transfers energy to the water surface.",
+    "sourceName": "Ocean science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0253",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Adventure #253: What is salty water in seas called?",
+    "answers": [
+      {
+        "id": "q_ocean_0253_d",
+        "text": "Ice water only"
+      },
+      {
+        "id": "q_ocean_0253_a",
+        "text": "Saltwater"
+      },
+      {
+        "id": "q_ocean_0253_b",
+        "text": "Freshwater only"
+      },
+      {
+        "id": "q_ocean_0253_c",
+        "text": "Rainwater only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0253_a",
+    "explanation": "Ocean water is saltwater.",
+    "hint": "Think about: Ocean science",
+    "funFact": "Ocean water is saltwater.",
+    "sourceName": "Ocean science",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_ocean_0254",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Ocean",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Adventure #254: Dolphins breathe using what?",
+    "answers": [
+      {
+        "id": "q_ocean_0254_a",
+        "text": "Lungs"
+      },
+      {
+        "id": "q_ocean_0254_b",
+        "text": "Gills only"
+      },
+      {
+        "id": "q_ocean_0254_c",
+        "text": "Leaves"
+      },
+      {
+        "id": "q_ocean_0254_d",
+        "text": "Fins only"
+      }
+    ],
+    "correctAnswerId": "q_ocean_0254_a",
+    "explanation": "Dolphins are mammals and breathe air with lungs.",
+    "hint": "Think about: Marine mammals",
+    "funFact": "Dolphins are mammals and breathe air with lungs.",
+    "sourceName": "Marine mammals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "ocean",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

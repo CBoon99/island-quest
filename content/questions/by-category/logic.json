@@ -1,0 +1,572 @@
+[
+  {
+    "id": "q_logic_0084",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "What comes next: 2, 4, 6, 8, …?",
+    "answers": [
+      {
+        "id": "q_logic_0084_b",
+        "text": "9"
+      },
+      {
+        "id": "q_logic_0084_c",
+        "text": "12"
+      },
+      {
+        "id": "q_logic_0084_d",
+        "text": "7"
+      },
+      {
+        "id": "q_logic_0084_a",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_logic_0084_a",
+    "explanation": "The pattern adds 2 each time.",
+    "hint": "Think about: Number patterns",
+    "funFact": "The pattern adds 2 each time.",
+    "sourceName": "Number patterns",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0085",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "What comes next: 5, 10, 15, 20, …?",
+    "answers": [
+      {
+        "id": "q_logic_0085_c",
+        "text": "30"
+      },
+      {
+        "id": "q_logic_0085_d",
+        "text": "22"
+      },
+      {
+        "id": "q_logic_0085_a",
+        "text": "25"
+      },
+      {
+        "id": "q_logic_0085_b",
+        "text": "21"
+      }
+    ],
+    "correctAnswerId": "q_logic_0085_a",
+    "explanation": "The pattern adds 5 each time.",
+    "hint": "Think about: Number patterns",
+    "funFact": "The pattern adds 5 each time.",
+    "sourceName": "Number patterns",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0086",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "If all bloops are red, and this is a bloop, what colour is it?",
+    "answers": [
+      {
+        "id": "q_logic_0086_d",
+        "text": "Yellow"
+      },
+      {
+        "id": "q_logic_0086_a",
+        "text": "Red"
+      },
+      {
+        "id": "q_logic_0086_b",
+        "text": "Blue"
+      },
+      {
+        "id": "q_logic_0086_c",
+        "text": "Green"
+      }
+    ],
+    "correctAnswerId": "q_logic_0086_a",
+    "explanation": "It must be red by the rule.",
+    "hint": "Think about: Logic basics",
+    "funFact": "It must be red by the rule.",
+    "sourceName": "Logic basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0087",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Which shape has no corners?",
+    "answers": [
+      {
+        "id": "q_logic_0087_a",
+        "text": "Circle"
+      },
+      {
+        "id": "q_logic_0087_b",
+        "text": "Square"
+      },
+      {
+        "id": "q_logic_0087_c",
+        "text": "Triangle"
+      },
+      {
+        "id": "q_logic_0087_d",
+        "text": "Rectangle"
+      }
+    ],
+    "correctAnswerId": "q_logic_0087_a",
+    "explanation": "A circle is round with no corners.",
+    "hint": "Think about: Shapes",
+    "funFact": "A circle is round with no corners.",
+    "sourceName": "Shapes",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0088",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Find the odd one out: apple, banana, car, orange",
+    "answers": [
+      {
+        "id": "q_logic_0088_b",
+        "text": "Apple"
+      },
+      {
+        "id": "q_logic_0088_c",
+        "text": "Banana"
+      },
+      {
+        "id": "q_logic_0088_d",
+        "text": "Orange"
+      },
+      {
+        "id": "q_logic_0088_a",
+        "text": "Car"
+      }
+    ],
+    "correctAnswerId": "q_logic_0088_a",
+    "explanation": "Car is not a fruit.",
+    "hint": "Think about: Classification",
+    "funFact": "Car is not a fruit.",
+    "sourceName": "Classification",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0178",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Quest check: What comes next: 2, 4, 6, 8, …?",
+    "answers": [
+      {
+        "id": "q_logic_0178_b",
+        "text": "9"
+      },
+      {
+        "id": "q_logic_0178_c",
+        "text": "12"
+      },
+      {
+        "id": "q_logic_0178_d",
+        "text": "7"
+      },
+      {
+        "id": "q_logic_0178_a",
+        "text": "10"
+      }
+    ],
+    "correctAnswerId": "q_logic_0178_a",
+    "explanation": "The pattern adds 2 each time.",
+    "hint": "Think about: Number patterns",
+    "funFact": "The pattern adds 2 each time.",
+    "sourceName": "Number patterns",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0179",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Quest check: What comes next: 5, 10, 15, 20, …?",
+    "answers": [
+      {
+        "id": "q_logic_0179_c",
+        "text": "30"
+      },
+      {
+        "id": "q_logic_0179_d",
+        "text": "22"
+      },
+      {
+        "id": "q_logic_0179_a",
+        "text": "25"
+      },
+      {
+        "id": "q_logic_0179_b",
+        "text": "21"
+      }
+    ],
+    "correctAnswerId": "q_logic_0179_a",
+    "explanation": "The pattern adds 5 each time.",
+    "hint": "Think about: Number patterns",
+    "funFact": "The pattern adds 5 each time.",
+    "sourceName": "Number patterns",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0180",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Quest check: If all bloops are red, and this is a bloop, what colour is it?",
+    "answers": [
+      {
+        "id": "q_logic_0180_c",
+        "text": "Green"
+      },
+      {
+        "id": "q_logic_0180_d",
+        "text": "Yellow"
+      },
+      {
+        "id": "q_logic_0180_a",
+        "text": "Red"
+      },
+      {
+        "id": "q_logic_0180_b",
+        "text": "Blue"
+      }
+    ],
+    "correctAnswerId": "q_logic_0180_a",
+    "explanation": "It must be red by the rule.",
+    "hint": "Think about: Logic basics",
+    "funFact": "It must be red by the rule.",
+    "sourceName": "Logic basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0181",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Quest check: Which shape has no corners?",
+    "answers": [
+      {
+        "id": "q_logic_0181_d",
+        "text": "Rectangle"
+      },
+      {
+        "id": "q_logic_0181_a",
+        "text": "Circle"
+      },
+      {
+        "id": "q_logic_0181_b",
+        "text": "Square"
+      },
+      {
+        "id": "q_logic_0181_c",
+        "text": "Triangle"
+      }
+    ],
+    "correctAnswerId": "q_logic_0181_a",
+    "explanation": "A circle is round with no corners.",
+    "hint": "Think about: Shapes",
+    "funFact": "A circle is round with no corners.",
+    "sourceName": "Shapes",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0182",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 3,
+    "question": "Quest check: Find the odd one out: apple, banana, car, orange",
+    "answers": [
+      {
+        "id": "q_logic_0182_a",
+        "text": "Car"
+      },
+      {
+        "id": "q_logic_0182_b",
+        "text": "Apple"
+      },
+      {
+        "id": "q_logic_0182_c",
+        "text": "Banana"
+      },
+      {
+        "id": "q_logic_0182_d",
+        "text": "Orange"
+      }
+    ],
+    "correctAnswerId": "q_logic_0182_a",
+    "explanation": "Car is not a fruit.",
+    "hint": "Think about: Classification",
+    "funFact": "Car is not a fruit.",
+    "sourceName": "Classification",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0272",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 4,
+    "question": "Adventure #272: What comes next: 2, 4, 6, 8, …?",
+    "answers": [
+      {
+        "id": "q_logic_0272_a",
+        "text": "10"
+      },
+      {
+        "id": "q_logic_0272_b",
+        "text": "9"
+      },
+      {
+        "id": "q_logic_0272_c",
+        "text": "12"
+      },
+      {
+        "id": "q_logic_0272_d",
+        "text": "7"
+      }
+    ],
+    "correctAnswerId": "q_logic_0272_a",
+    "explanation": "The pattern adds 2 each time.",
+    "hint": "Think about: Number patterns",
+    "funFact": "The pattern adds 2 each time.",
+    "sourceName": "Number patterns",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0273",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #273: What comes next: 5, 10, 15, 20, …?",
+    "answers": [
+      {
+        "id": "q_logic_0273_b",
+        "text": "21"
+      },
+      {
+        "id": "q_logic_0273_c",
+        "text": "30"
+      },
+      {
+        "id": "q_logic_0273_d",
+        "text": "22"
+      },
+      {
+        "id": "q_logic_0273_a",
+        "text": "25"
+      }
+    ],
+    "correctAnswerId": "q_logic_0273_a",
+    "explanation": "The pattern adds 5 each time.",
+    "hint": "Think about: Number patterns",
+    "funFact": "The pattern adds 5 each time.",
+    "sourceName": "Number patterns",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0274",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 1,
+    "question": "Adventure #274: If all bloops are red, and this is a bloop, what colour is it?",
+    "answers": [
+      {
+        "id": "q_logic_0274_c",
+        "text": "Green"
+      },
+      {
+        "id": "q_logic_0274_d",
+        "text": "Yellow"
+      },
+      {
+        "id": "q_logic_0274_a",
+        "text": "Red"
+      },
+      {
+        "id": "q_logic_0274_b",
+        "text": "Blue"
+      }
+    ],
+    "correctAnswerId": "q_logic_0274_a",
+    "explanation": "It must be red by the rule.",
+    "hint": "Think about: Logic basics",
+    "funFact": "It must be red by the rule.",
+    "sourceName": "Logic basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0275",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #275: Which shape has no corners?",
+    "answers": [
+      {
+        "id": "q_logic_0275_d",
+        "text": "Rectangle"
+      },
+      {
+        "id": "q_logic_0275_a",
+        "text": "Circle"
+      },
+      {
+        "id": "q_logic_0275_b",
+        "text": "Square"
+      },
+      {
+        "id": "q_logic_0275_c",
+        "text": "Triangle"
+      }
+    ],
+    "correctAnswerId": "q_logic_0275_a",
+    "explanation": "A circle is round with no corners.",
+    "hint": "Think about: Shapes",
+    "funFact": "A circle is round with no corners.",
+    "sourceName": "Shapes",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_logic_0276",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Logic and Patterns",
+    "worldId": "pirate-bay",
+    "difficulty": 2,
+    "question": "Adventure #276: Find the odd one out: apple, banana, car, orange",
+    "answers": [
+      {
+        "id": "q_logic_0276_a",
+        "text": "Car"
+      },
+      {
+        "id": "q_logic_0276_b",
+        "text": "Apple"
+      },
+      {
+        "id": "q_logic_0276_c",
+        "text": "Banana"
+      },
+      {
+        "id": "q_logic_0276_d",
+        "text": "Orange"
+      }
+    ],
+    "correctAnswerId": "q_logic_0276_a",
+    "explanation": "Car is not a fruit.",
+    "hint": "Think about: Classification",
+    "funFact": "Car is not a fruit.",
+    "sourceName": "Classification",
+    "licence": "original-paraphrase",
+    "tags": [
+      "logic",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

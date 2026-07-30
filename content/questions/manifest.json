@@ -1,0 +1,6 @@
+{
+  "generatedAt": "2026-07-30T07:20:09.286Z",
+  "totalActive": 320,
+  "reviewedCount": 80,
+  "note": "Most questions are agent-authored templated facts with sources; only first ~80 have reviewedAt set. Not all human-reviewed."
+}

@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "q_indonesia_0067",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Gili Meno is near which larger Indonesian island?",
+    "answers": [
+      {
+        "id": "q_indonesia_0067_c",
+        "text": "Papua only"
+      },
+      {
+        "id": "q_indonesia_0067_d",
+        "text": "Japan"
+      },
+      {
+        "id": "q_indonesia_0067_a",
+        "text": "Lombok"
+      },
+      {
+        "id": "q_indonesia_0067_b",
+        "text": "Sumatra only"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0067_a",
+    "explanation": "The Gili Islands lie off Lombok.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "The Gili Islands lie off Lombok.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0068",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "What is the capital city of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0068_d",
+        "text": "Singapore"
+      },
+      {
+        "id": "q_indonesia_0068_a",
+        "text": "Jakarta"
+      },
+      {
+        "id": "q_indonesia_0068_b",
+        "text": "Bali"
+      },
+      {
+        "id": "q_indonesia_0068_c",
+        "text": "Surabaya only"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0068_a",
+    "explanation": "Jakarta is Indonesia’s capital.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Jakarta is Indonesia’s capital.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0069",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Which language is the national language of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0069_a",
+        "text": "Bahasa Indonesia"
+      },
+      {
+        "id": "q_indonesia_0069_b",
+        "text": "Only English"
+      },
+      {
+        "id": "q_indonesia_0069_c",
+        "text": "Only Japanese"
+      },
+      {
+        "id": "q_indonesia_0069_d",
+        "text": "Only Arabic"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0069_a",
+    "explanation": "Bahasa Indonesia is the national language.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Bahasa Indonesia is the national language.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0070",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Komodo dragons are native to which country?",
+    "answers": [
+      {
+        "id": "q_indonesia_0070_a",
+        "text": "Indonesia"
+      },
+      {
+        "id": "q_indonesia_0070_b",
+        "text": "Canada"
+      },
+      {
+        "id": "q_indonesia_0070_c",
+        "text": "Egypt"
+      },
+      {
+        "id": "q_indonesia_0070_d",
+        "text": "France"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0070_a",
+    "explanation": "Komodo dragons live on Indonesian islands.",
+    "hint": "Think about: Wildlife of Indonesia",
+    "funFact": "Komodo dragons live on Indonesian islands.",
+    "sourceName": "Wildlife of Indonesia",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0071",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Bali is famous as part of which country?",
+    "answers": [
+      {
+        "id": "q_indonesia_0071_b",
+        "text": "Thailand"
+      },
+      {
+        "id": "q_indonesia_0071_c",
+        "text": "India"
+      },
+      {
+        "id": "q_indonesia_0071_d",
+        "text": "Philippines only"
+      },
+      {
+        "id": "q_indonesia_0071_a",
+        "text": "Indonesia"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0071_a",
+    "explanation": "Bali is an Indonesian island.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Bali is an Indonesian island.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0072",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "What ocean borders Indonesia to the south and west areas?",
+    "answers": [
+      {
+        "id": "q_indonesia_0072_c",
+        "text": "Atlantic only"
+      },
+      {
+        "id": "q_indonesia_0072_d",
+        "text": "Southern Ocean only"
+      },
+      {
+        "id": "q_indonesia_0072_a",
+        "text": "Indian Ocean"
+      },
+      {
+        "id": "q_indonesia_0072_b",
+        "text": "Arctic Ocean"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0072_a",
+    "explanation": "Indonesia borders the Indian and Pacific Oceans.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Indonesia borders the Indian and Pacific Oceans.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0073",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Mount Rinjani is a famous volcano on which island?",
+    "answers": [
+      {
+        "id": "q_indonesia_0073_d",
+        "text": "Iceland"
+      },
+      {
+        "id": "q_indonesia_0073_a",
+        "text": "Lombok"
+      },
+      {
+        "id": "q_indonesia_0073_b",
+        "text": "Java only"
+      },
+      {
+        "id": "q_indonesia_0073_c",
+        "text": "Madagascar"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0073_a",
+    "explanation": "Rinjani is on Lombok, near the Gilis.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Rinjani is on Lombok, near the Gilis.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0074",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "What is a traditional Indonesian rice dish often with sides?",
+    "answers": [
+      {
+        "id": "q_indonesia_0074_a",
+        "text": "Nasi campur / rice meals"
+      },
+      {
+        "id": "q_indonesia_0074_b",
+        "text": "Only pizza"
+      },
+      {
+        "id": "q_indonesia_0074_c",
+        "text": "Only sushi as national"
+      },
+      {
+        "id": "q_indonesia_0074_d",
+        "text": "Only tacos"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0074_a",
+    "explanation": "Rice is central to many Indonesian meals.",
+    "hint": "Think about: Indonesian culture",
+    "funFact": "Rice is central to many Indonesian meals.",
+    "sourceName": "Indonesian culture",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0075",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Sea turtles sometimes nest on beaches near the Gilis. What should visitors do?",
+    "answers": [
+      {
+        "id": "q_indonesia_0075_b",
+        "text": "Touch eggs"
+      },
+      {
+        "id": "q_indonesia_0075_c",
+        "text": "Shine bright lights always on nests"
+      },
+      {
+        "id": "q_indonesia_0075_d",
+        "text": "Drive on nests"
+      },
+      {
+        "id": "q_indonesia_0075_a",
+        "text": "Watch quietly and keep distance"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0075_a",
+    "explanation": "Give nesting turtles space and darkness.",
+    "hint": "Think about: Ocean conservation",
+    "funFact": "Give nesting turtles space and darkness.",
+    "sourceName": "Ocean conservation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0076",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Which Indonesian island is the most populated?",
+    "answers": [
+      {
+        "id": "q_indonesia_0076_c",
+        "text": "Gili Meno"
+      },
+      {
+        "id": "q_indonesia_0076_d",
+        "text": "Borneo only"
+      },
+      {
+        "id": "q_indonesia_0076_a",
+        "text": "Java"
+      },
+      {
+        "id": "q_indonesia_0076_b",
+        "text": "Bali only"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0076_a",
+    "explanation": "Java has the largest population.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Java has the largest population.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0077",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "What is the currency of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0077_d",
+        "text": "Euro only"
+      },
+      {
+        "id": "q_indonesia_0077_a",
+        "text": "Rupiah"
+      },
+      {
+        "id": "q_indonesia_0077_b",
+        "text": "Dollar only"
+      },
+      {
+        "id": "q_indonesia_0077_c",
+        "text": "Yen only"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0077_a",
+    "explanation": "Indonesia uses the rupiah.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Indonesia uses the rupiah.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0078",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Snorkelling near coral is safer when you…",
+    "answers": [
+      {
+        "id": "q_indonesia_0078_a",
+        "text": "Don’t stand on coral"
+      },
+      {
+        "id": "q_indonesia_0078_b",
+        "text": "Break coral for souvenirs"
+      },
+      {
+        "id": "q_indonesia_0078_c",
+        "text": "Feed all fish bread"
+      },
+      {
+        "id": "q_indonesia_0078_d",
+        "text": "Touch every creature"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0078_a",
+    "explanation": "Protect reefs by not touching or standing on coral.",
+    "hint": "Think about: Ocean conservation",
+    "funFact": "Protect reefs by not touching or standing on coral.",
+    "sourceName": "Ocean conservation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0161",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Quest check: Gili Meno is near which larger Indonesian island?",
+    "answers": [
+      {
+        "id": "q_indonesia_0161_b",
+        "text": "Sumatra only"
+      },
+      {
+        "id": "q_indonesia_0161_c",
+        "text": "Papua only"
+      },
+      {
+        "id": "q_indonesia_0161_d",
+        "text": "Japan"
+      },
+      {
+        "id": "q_indonesia_0161_a",
+        "text": "Lombok"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0161_a",
+    "explanation": "The Gili Islands lie off Lombok.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "The Gili Islands lie off Lombok.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0162",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Quest check: What is the capital city of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0162_c",
+        "text": "Surabaya only"
+      },
+      {
+        "id": "q_indonesia_0162_d",
+        "text": "Singapore"
+      },
+      {
+        "id": "q_indonesia_0162_a",
+        "text": "Jakarta"
+      },
+      {
+        "id": "q_indonesia_0162_b",
+        "text": "Bali"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0162_a",
+    "explanation": "Jakarta is Indonesia’s capital.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Jakarta is Indonesia’s capital.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0163",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Quest check: Which language is the national language of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0163_d",
+        "text": "Only Arabic"
+      },
+      {
+        "id": "q_indonesia_0163_a",
+        "text": "Bahasa Indonesia"
+      },
+      {
+        "id": "q_indonesia_0163_b",
+        "text": "Only English"
+      },
+      {
+        "id": "q_indonesia_0163_c",
+        "text": "Only Japanese"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0163_a",
+    "explanation": "Bahasa Indonesia is the national language.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Bahasa Indonesia is the national language.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0164",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Quest check: Komodo dragons are native to which country?",
+    "answers": [
+      {
+        "id": "q_indonesia_0164_a",
+        "text": "Indonesia"
+      },
+      {
+        "id": "q_indonesia_0164_b",
+        "text": "Canada"
+      },
+      {
+        "id": "q_indonesia_0164_c",
+        "text": "Egypt"
+      },
+      {
+        "id": "q_indonesia_0164_d",
+        "text": "France"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0164_a",
+    "explanation": "Komodo dragons live on Indonesian islands.",
+    "hint": "Think about: Wildlife of Indonesia",
+    "funFact": "Komodo dragons live on Indonesian islands.",
+    "sourceName": "Wildlife of Indonesia",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0165",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Quest check: Bali is famous as part of which country?",
+    "answers": [
+      {
+        "id": "q_indonesia_0165_b",
+        "text": "Thailand"
+      },
+      {
+        "id": "q_indonesia_0165_c",
+        "text": "India"
+      },
+      {
+        "id": "q_indonesia_0165_d",
+        "text": "Philippines only"
+      },
+      {
+        "id": "q_indonesia_0165_a",
+        "text": "Indonesia"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0165_a",
+    "explanation": "Bali is an Indonesian island.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Bali is an Indonesian island.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0166",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Quest check: What ocean borders Indonesia to the south and west areas?",
+    "answers": [
+      {
+        "id": "q_indonesia_0166_c",
+        "text": "Atlantic only"
+      },
+      {
+        "id": "q_indonesia_0166_d",
+        "text": "Southern Ocean only"
+      },
+      {
+        "id": "q_indonesia_0166_a",
+        "text": "Indian Ocean"
+      },
+      {
+        "id": "q_indonesia_0166_b",
+        "text": "Arctic Ocean"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0166_a",
+    "explanation": "Indonesia borders the Indian and Pacific Oceans.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Indonesia borders the Indian and Pacific Oceans.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0167",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Quest check: Mount Rinjani is a famous volcano on which island?",
+    "answers": [
+      {
+        "id": "q_indonesia_0167_d",
+        "text": "Iceland"
+      },
+      {
+        "id": "q_indonesia_0167_a",
+        "text": "Lombok"
+      },
+      {
+        "id": "q_indonesia_0167_b",
+        "text": "Java only"
+      },
+      {
+        "id": "q_indonesia_0167_c",
+        "text": "Madagascar"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0167_a",
+    "explanation": "Rinjani is on Lombok, near the Gilis.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Rinjani is on Lombok, near the Gilis.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0168",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Quest check: What is a traditional Indonesian rice dish often with sides?",
+    "answers": [
+      {
+        "id": "q_indonesia_0168_a",
+        "text": "Nasi campur / rice meals"
+      },
+      {
+        "id": "q_indonesia_0168_b",
+        "text": "Only pizza"
+      },
+      {
+        "id": "q_indonesia_0168_c",
+        "text": "Only sushi as national"
+      },
+      {
+        "id": "q_indonesia_0168_d",
+        "text": "Only tacos"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0168_a",
+    "explanation": "Rice is central to many Indonesian meals.",
+    "hint": "Think about: Indonesian culture",
+    "funFact": "Rice is central to many Indonesian meals.",
+    "sourceName": "Indonesian culture",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0169",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Quest check: Sea turtles sometimes nest on beaches near the Gilis. What should visitors do?",
+    "answers": [
+      {
+        "id": "q_indonesia_0169_b",
+        "text": "Touch eggs"
+      },
+      {
+        "id": "q_indonesia_0169_c",
+        "text": "Shine bright lights always on nests"
+      },
+      {
+        "id": "q_indonesia_0169_d",
+        "text": "Drive on nests"
+      },
+      {
+        "id": "q_indonesia_0169_a",
+        "text": "Watch quietly and keep distance"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0169_a",
+    "explanation": "Give nesting turtles space and darkness.",
+    "hint": "Think about: Ocean conservation",
+    "funFact": "Give nesting turtles space and darkness.",
+    "sourceName": "Ocean conservation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0170",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Quest check: Which Indonesian island is the most populated?",
+    "answers": [
+      {
+        "id": "q_indonesia_0170_b",
+        "text": "Bali only"
+      },
+      {
+        "id": "q_indonesia_0170_c",
+        "text": "Gili Meno"
+      },
+      {
+        "id": "q_indonesia_0170_d",
+        "text": "Borneo only"
+      },
+      {
+        "id": "q_indonesia_0170_a",
+        "text": "Java"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0170_a",
+    "explanation": "Java has the largest population.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Java has the largest population.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0171",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Quest check: What is the currency of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0171_c",
+        "text": "Yen only"
+      },
+      {
+        "id": "q_indonesia_0171_d",
+        "text": "Euro only"
+      },
+      {
+        "id": "q_indonesia_0171_a",
+        "text": "Rupiah"
+      },
+      {
+        "id": "q_indonesia_0171_b",
+        "text": "Dollar only"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0171_a",
+    "explanation": "Indonesia uses the rupiah.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Indonesia uses the rupiah.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0172",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Quest check: Snorkelling near coral is safer when you…",
+    "answers": [
+      {
+        "id": "q_indonesia_0172_d",
+        "text": "Touch every creature"
+      },
+      {
+        "id": "q_indonesia_0172_a",
+        "text": "Don’t stand on coral"
+      },
+      {
+        "id": "q_indonesia_0172_b",
+        "text": "Break coral for souvenirs"
+      },
+      {
+        "id": "q_indonesia_0172_c",
+        "text": "Feed all fish bread"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0172_a",
+    "explanation": "Protect reefs by not touching or standing on coral.",
+    "hint": "Think about: Ocean conservation",
+    "funFact": "Protect reefs by not touching or standing on coral.",
+    "sourceName": "Ocean conservation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0255",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Adventure #255: Gili Meno is near which larger Indonesian island?",
+    "answers": [
+      {
+        "id": "q_indonesia_0255_b",
+        "text": "Sumatra only"
+      },
+      {
+        "id": "q_indonesia_0255_c",
+        "text": "Papua only"
+      },
+      {
+        "id": "q_indonesia_0255_d",
+        "text": "Japan"
+      },
+      {
+        "id": "q_indonesia_0255_a",
+        "text": "Lombok"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0255_a",
+    "explanation": "The Gili Islands lie off Lombok.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "The Gili Islands lie off Lombok.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0256",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Adventure #256: What is the capital city of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0256_c",
+        "text": "Surabaya only"
+      },
+      {
+        "id": "q_indonesia_0256_d",
+        "text": "Singapore"
+      },
+      {
+        "id": "q_indonesia_0256_a",
+        "text": "Jakarta"
+      },
+      {
+        "id": "q_indonesia_0256_b",
+        "text": "Bali"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0256_a",
+    "explanation": "Jakarta is Indonesia’s capital.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Jakarta is Indonesia’s capital.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0257",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Adventure #257: Which language is the national language of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0257_d",
+        "text": "Only Arabic"
+      },
+      {
+        "id": "q_indonesia_0257_a",
+        "text": "Bahasa Indonesia"
+      },
+      {
+        "id": "q_indonesia_0257_b",
+        "text": "Only English"
+      },
+      {
+        "id": "q_indonesia_0257_c",
+        "text": "Only Japanese"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0257_a",
+    "explanation": "Bahasa Indonesia is the national language.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Bahasa Indonesia is the national language.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0258",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Adventure #258: Komodo dragons are native to which country?",
+    "answers": [
+      {
+        "id": "q_indonesia_0258_a",
+        "text": "Indonesia"
+      },
+      {
+        "id": "q_indonesia_0258_b",
+        "text": "Canada"
+      },
+      {
+        "id": "q_indonesia_0258_c",
+        "text": "Egypt"
+      },
+      {
+        "id": "q_indonesia_0258_d",
+        "text": "France"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0258_a",
+    "explanation": "Komodo dragons live on Indonesian islands.",
+    "hint": "Think about: Wildlife of Indonesia",
+    "funFact": "Komodo dragons live on Indonesian islands.",
+    "sourceName": "Wildlife of Indonesia",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0259",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Adventure #259: Bali is famous as part of which country?",
+    "answers": [
+      {
+        "id": "q_indonesia_0259_b",
+        "text": "Thailand"
+      },
+      {
+        "id": "q_indonesia_0259_c",
+        "text": "India"
+      },
+      {
+        "id": "q_indonesia_0259_d",
+        "text": "Philippines only"
+      },
+      {
+        "id": "q_indonesia_0259_a",
+        "text": "Indonesia"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0259_a",
+    "explanation": "Bali is an Indonesian island.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Bali is an Indonesian island.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0260",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 2,
+    "question": "Adventure #260: What ocean borders Indonesia to the south and west areas?",
+    "answers": [
+      {
+        "id": "q_indonesia_0260_b",
+        "text": "Arctic Ocean"
+      },
+      {
+        "id": "q_indonesia_0260_c",
+        "text": "Atlantic only"
+      },
+      {
+        "id": "q_indonesia_0260_d",
+        "text": "Southern Ocean only"
+      },
+      {
+        "id": "q_indonesia_0260_a",
+        "text": "Indian Ocean"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0260_a",
+    "explanation": "Indonesia borders the Indian and Pacific Oceans.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Indonesia borders the Indian and Pacific Oceans.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0261",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Adventure #261: Mount Rinjani is a famous volcano on which island?",
+    "answers": [
+      {
+        "id": "q_indonesia_0261_c",
+        "text": "Madagascar"
+      },
+      {
+        "id": "q_indonesia_0261_d",
+        "text": "Iceland"
+      },
+      {
+        "id": "q_indonesia_0261_a",
+        "text": "Lombok"
+      },
+      {
+        "id": "q_indonesia_0261_b",
+        "text": "Java only"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0261_a",
+    "explanation": "Rinjani is on Lombok, near the Gilis.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Rinjani is on Lombok, near the Gilis.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0262",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 3,
+    "question": "Adventure #262: What is a traditional Indonesian rice dish often with sides?",
+    "answers": [
+      {
+        "id": "q_indonesia_0262_d",
+        "text": "Only tacos"
+      },
+      {
+        "id": "q_indonesia_0262_a",
+        "text": "Nasi campur / rice meals"
+      },
+      {
+        "id": "q_indonesia_0262_b",
+        "text": "Only pizza"
+      },
+      {
+        "id": "q_indonesia_0262_c",
+        "text": "Only sushi as national"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0262_a",
+    "explanation": "Rice is central to many Indonesian meals.",
+    "hint": "Think about: Indonesian culture",
+    "funFact": "Rice is central to many Indonesian meals.",
+    "sourceName": "Indonesian culture",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0263",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Adventure #263: Sea turtles sometimes nest on beaches near the Gilis. What should visitors do?",
+    "answers": [
+      {
+        "id": "q_indonesia_0263_a",
+        "text": "Watch quietly and keep distance"
+      },
+      {
+        "id": "q_indonesia_0263_b",
+        "text": "Touch eggs"
+      },
+      {
+        "id": "q_indonesia_0263_c",
+        "text": "Shine bright lights always on nests"
+      },
+      {
+        "id": "q_indonesia_0263_d",
+        "text": "Drive on nests"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0263_a",
+    "explanation": "Give nesting turtles space and darkness.",
+    "hint": "Think about: Ocean conservation",
+    "funFact": "Give nesting turtles space and darkness.",
+    "sourceName": "Ocean conservation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0264",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 4,
+    "question": "Adventure #264: Which Indonesian island is the most populated?",
+    "answers": [
+      {
+        "id": "q_indonesia_0264_b",
+        "text": "Bali only"
+      },
+      {
+        "id": "q_indonesia_0264_c",
+        "text": "Gili Meno"
+      },
+      {
+        "id": "q_indonesia_0264_d",
+        "text": "Borneo only"
+      },
+      {
+        "id": "q_indonesia_0264_a",
+        "text": "Java"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0264_a",
+    "explanation": "Java has the largest population.",
+    "hint": "Think about: Indonesia geography",
+    "funFact": "Java has the largest population.",
+    "sourceName": "Indonesia geography",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0265",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Adventure #265: What is the currency of Indonesia?",
+    "answers": [
+      {
+        "id": "q_indonesia_0265_c",
+        "text": "Yen only"
+      },
+      {
+        "id": "q_indonesia_0265_d",
+        "text": "Euro only"
+      },
+      {
+        "id": "q_indonesia_0265_a",
+        "text": "Rupiah"
+      },
+      {
+        "id": "q_indonesia_0265_b",
+        "text": "Dollar only"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0265_a",
+    "explanation": "Indonesia uses the rupiah.",
+    "hint": "Think about: Indonesia facts",
+    "funFact": "Indonesia uses the rupiah.",
+    "sourceName": "Indonesia facts",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_indonesia_0266",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Indonesia and Local Knowledge",
+    "worldId": "coral-coast",
+    "difficulty": 1,
+    "question": "Adventure #266: Snorkelling near coral is safer when you…",
+    "answers": [
+      {
+        "id": "q_indonesia_0266_d",
+        "text": "Touch every creature"
+      },
+      {
+        "id": "q_indonesia_0266_a",
+        "text": "Don’t stand on coral"
+      },
+      {
+        "id": "q_indonesia_0266_b",
+        "text": "Break coral for souvenirs"
+      },
+      {
+        "id": "q_indonesia_0266_c",
+        "text": "Feed all fish bread"
+      }
+    ],
+    "correctAnswerId": "q_indonesia_0266_a",
+    "explanation": "Protect reefs by not touching or standing on coral.",
+    "hint": "Think about: Ocean conservation",
+    "funFact": "Protect reefs by not touching or standing on coral.",
+    "sourceName": "Ocean conservation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "indonesia",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

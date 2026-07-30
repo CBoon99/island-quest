@@ -1,0 +1,686 @@
+[
+  {
+    "id": "q_health_0089",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Why should we wash hands before eating?",
+    "answers": [
+      {
+        "id": "q_health_0089_c",
+        "text": "To make hands colder only"
+      },
+      {
+        "id": "q_health_0089_d",
+        "text": "Because hands like soap stories"
+      },
+      {
+        "id": "q_health_0089_a",
+        "text": "To remove germs"
+      },
+      {
+        "id": "q_health_0089_b",
+        "text": "To change hand colour"
+      }
+    ],
+    "correctAnswerId": "q_health_0089_a",
+    "explanation": "Washing hands helps stop germs spreading.",
+    "hint": "Think about: Health basics",
+    "funFact": "Washing hands helps stop germs spreading.",
+    "sourceName": "Health basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0090",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "What helps keep teeth strong?",
+    "answers": [
+      {
+        "id": "q_health_0090_c",
+        "text": "Only eating candy"
+      },
+      {
+        "id": "q_health_0090_d",
+        "text": "Skipping water always"
+      },
+      {
+        "id": "q_health_0090_a",
+        "text": "Brushing with toothpaste"
+      },
+      {
+        "id": "q_health_0090_b",
+        "text": "Never brushing"
+      }
+    ],
+    "correctAnswerId": "q_health_0090_a",
+    "explanation": "Brushing removes plaque and protects teeth.",
+    "hint": "Think about: Dental health",
+    "funFact": "Brushing removes plaque and protects teeth.",
+    "sourceName": "Dental health",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0091",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "How much of your plate is often recommended for fruits and vegetables?",
+    "answers": [
+      {
+        "id": "q_health_0091_d",
+        "text": "Only chips"
+      },
+      {
+        "id": "q_health_0091_a",
+        "text": "A good share / half is a common tip"
+      },
+      {
+        "id": "q_health_0091_b",
+        "text": "None"
+      },
+      {
+        "id": "q_health_0091_c",
+        "text": "Only sweets"
+      }
+    ],
+    "correctAnswerId": "q_health_0091_a",
+    "explanation": "Fruits and vegetables support health.",
+    "hint": "Think about: Nutrition basics",
+    "funFact": "Fruits and vegetables support health.",
+    "sourceName": "Nutrition basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0092",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "What should you wear when riding a bike?",
+    "answers": [
+      {
+        "id": "q_health_0092_a",
+        "text": "Helmet"
+      },
+      {
+        "id": "q_health_0092_b",
+        "text": "Nothing special ever"
+      },
+      {
+        "id": "q_health_0092_c",
+        "text": "Only flippers"
+      },
+      {
+        "id": "q_health_0092_d",
+        "text": "A paper hat only"
+      }
+    ],
+    "correctAnswerId": "q_health_0092_a",
+    "explanation": "Helmets protect your head.",
+    "hint": "Think about: Safety",
+    "funFact": "Helmets protect your head.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0093",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "If you feel too hot in the sun, what helps?",
+    "answers": [
+      {
+        "id": "q_health_0093_b",
+        "text": "More heavy coats"
+      },
+      {
+        "id": "q_health_0093_c",
+        "text": "No water ever"
+      },
+      {
+        "id": "q_health_0093_d",
+        "text": "Running without rest always"
+      },
+      {
+        "id": "q_health_0093_a",
+        "text": "Shade and water"
+      }
+    ],
+    "correctAnswerId": "q_health_0093_a",
+    "explanation": "Shade and hydration prevent overheating.",
+    "hint": "Think about: Safety",
+    "funFact": "Shade and hydration prevent overheating.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0094",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Sunscreen helps protect skin from what?",
+    "answers": [
+      {
+        "id": "q_health_0094_c",
+        "text": "Rain taste"
+      },
+      {
+        "id": "q_health_0094_d",
+        "text": "Wind colour"
+      },
+      {
+        "id": "q_health_0094_a",
+        "text": "Sun UV rays"
+      },
+      {
+        "id": "q_health_0094_b",
+        "text": "Cold only"
+      }
+    ],
+    "correctAnswerId": "q_health_0094_a",
+    "explanation": "Sunscreen reduces UV damage.",
+    "hint": "Think about: Safety",
+    "funFact": "Sunscreen reduces UV damage.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0183",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Quest check: Why should we wash hands before eating?",
+    "answers": [
+      {
+        "id": "q_health_0183_b",
+        "text": "To change hand colour"
+      },
+      {
+        "id": "q_health_0183_c",
+        "text": "To make hands colder only"
+      },
+      {
+        "id": "q_health_0183_d",
+        "text": "Because hands like soap stories"
+      },
+      {
+        "id": "q_health_0183_a",
+        "text": "To remove germs"
+      }
+    ],
+    "correctAnswerId": "q_health_0183_a",
+    "explanation": "Washing hands helps stop germs spreading.",
+    "hint": "Think about: Health basics",
+    "funFact": "Washing hands helps stop germs spreading.",
+    "sourceName": "Health basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0184",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Quest check: What helps keep teeth strong?",
+    "answers": [
+      {
+        "id": "q_health_0184_c",
+        "text": "Only eating candy"
+      },
+      {
+        "id": "q_health_0184_d",
+        "text": "Skipping water always"
+      },
+      {
+        "id": "q_health_0184_a",
+        "text": "Brushing with toothpaste"
+      },
+      {
+        "id": "q_health_0184_b",
+        "text": "Never brushing"
+      }
+    ],
+    "correctAnswerId": "q_health_0184_a",
+    "explanation": "Brushing removes plaque and protects teeth.",
+    "hint": "Think about: Dental health",
+    "funFact": "Brushing removes plaque and protects teeth.",
+    "sourceName": "Dental health",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0185",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Quest check: How much of your plate is often recommended for fruits and vegetables?",
+    "answers": [
+      {
+        "id": "q_health_0185_d",
+        "text": "Only chips"
+      },
+      {
+        "id": "q_health_0185_a",
+        "text": "A good share / half is a common tip"
+      },
+      {
+        "id": "q_health_0185_b",
+        "text": "None"
+      },
+      {
+        "id": "q_health_0185_c",
+        "text": "Only sweets"
+      }
+    ],
+    "correctAnswerId": "q_health_0185_a",
+    "explanation": "Fruits and vegetables support health.",
+    "hint": "Think about: Nutrition basics",
+    "funFact": "Fruits and vegetables support health.",
+    "sourceName": "Nutrition basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0186",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Quest check: What should you wear when riding a bike?",
+    "answers": [
+      {
+        "id": "q_health_0186_a",
+        "text": "Helmet"
+      },
+      {
+        "id": "q_health_0186_b",
+        "text": "Nothing special ever"
+      },
+      {
+        "id": "q_health_0186_c",
+        "text": "Only flippers"
+      },
+      {
+        "id": "q_health_0186_d",
+        "text": "A paper hat only"
+      }
+    ],
+    "correctAnswerId": "q_health_0186_a",
+    "explanation": "Helmets protect your head.",
+    "hint": "Think about: Safety",
+    "funFact": "Helmets protect your head.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0187",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Quest check: If you feel too hot in the sun, what helps?",
+    "answers": [
+      {
+        "id": "q_health_0187_b",
+        "text": "More heavy coats"
+      },
+      {
+        "id": "q_health_0187_c",
+        "text": "No water ever"
+      },
+      {
+        "id": "q_health_0187_d",
+        "text": "Running without rest always"
+      },
+      {
+        "id": "q_health_0187_a",
+        "text": "Shade and water"
+      }
+    ],
+    "correctAnswerId": "q_health_0187_a",
+    "explanation": "Shade and hydration prevent overheating.",
+    "hint": "Think about: Safety",
+    "funFact": "Shade and hydration prevent overheating.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0188",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 2,
+    "question": "Quest check: Sunscreen helps protect skin from what?",
+    "answers": [
+      {
+        "id": "q_health_0188_c",
+        "text": "Rain taste"
+      },
+      {
+        "id": "q_health_0188_d",
+        "text": "Wind colour"
+      },
+      {
+        "id": "q_health_0188_a",
+        "text": "Sun UV rays"
+      },
+      {
+        "id": "q_health_0188_b",
+        "text": "Cold only"
+      }
+    ],
+    "correctAnswerId": "q_health_0188_a",
+    "explanation": "Sunscreen reduces UV damage.",
+    "hint": "Think about: Safety",
+    "funFact": "Sunscreen reduces UV damage.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0277",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Adventure #277: Why should we wash hands before eating?",
+    "answers": [
+      {
+        "id": "q_health_0277_b",
+        "text": "To change hand colour"
+      },
+      {
+        "id": "q_health_0277_c",
+        "text": "To make hands colder only"
+      },
+      {
+        "id": "q_health_0277_d",
+        "text": "Because hands like soap stories"
+      },
+      {
+        "id": "q_health_0277_a",
+        "text": "To remove germs"
+      }
+    ],
+    "correctAnswerId": "q_health_0277_a",
+    "explanation": "Washing hands helps stop germs spreading.",
+    "hint": "Think about: Health basics",
+    "funFact": "Washing hands helps stop germs spreading.",
+    "sourceName": "Health basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0278",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 3,
+    "question": "Adventure #278: What helps keep teeth strong?",
+    "answers": [
+      {
+        "id": "q_health_0278_c",
+        "text": "Only eating candy"
+      },
+      {
+        "id": "q_health_0278_d",
+        "text": "Skipping water always"
+      },
+      {
+        "id": "q_health_0278_a",
+        "text": "Brushing with toothpaste"
+      },
+      {
+        "id": "q_health_0278_b",
+        "text": "Never brushing"
+      }
+    ],
+    "correctAnswerId": "q_health_0278_a",
+    "explanation": "Brushing removes plaque and protects teeth.",
+    "hint": "Think about: Dental health",
+    "funFact": "Brushing removes plaque and protects teeth.",
+    "sourceName": "Dental health",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0279",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Adventure #279: How much of your plate is often recommended for fruits and vegetables?",
+    "answers": [
+      {
+        "id": "q_health_0279_d",
+        "text": "Only chips"
+      },
+      {
+        "id": "q_health_0279_a",
+        "text": "A good share / half is a common tip"
+      },
+      {
+        "id": "q_health_0279_b",
+        "text": "None"
+      },
+      {
+        "id": "q_health_0279_c",
+        "text": "Only sweets"
+      }
+    ],
+    "correctAnswerId": "q_health_0279_a",
+    "explanation": "Fruits and vegetables support health.",
+    "hint": "Think about: Nutrition basics",
+    "funFact": "Fruits and vegetables support health.",
+    "sourceName": "Nutrition basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0280",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 4,
+    "question": "Adventure #280: What should you wear when riding a bike?",
+    "answers": [
+      {
+        "id": "q_health_0280_d",
+        "text": "A paper hat only"
+      },
+      {
+        "id": "q_health_0280_a",
+        "text": "Helmet"
+      },
+      {
+        "id": "q_health_0280_b",
+        "text": "Nothing special ever"
+      },
+      {
+        "id": "q_health_0280_c",
+        "text": "Only flippers"
+      }
+    ],
+    "correctAnswerId": "q_health_0280_a",
+    "explanation": "Helmets protect your head.",
+    "hint": "Think about: Safety",
+    "funFact": "Helmets protect your head.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0281",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Adventure #281: If you feel too hot in the sun, what helps?",
+    "answers": [
+      {
+        "id": "q_health_0281_a",
+        "text": "Shade and water"
+      },
+      {
+        "id": "q_health_0281_b",
+        "text": "More heavy coats"
+      },
+      {
+        "id": "q_health_0281_c",
+        "text": "No water ever"
+      },
+      {
+        "id": "q_health_0281_d",
+        "text": "Running without rest always"
+      }
+    ],
+    "correctAnswerId": "q_health_0281_a",
+    "explanation": "Shade and hydration prevent overheating.",
+    "hint": "Think about: Safety",
+    "funFact": "Shade and hydration prevent overheating.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_health_0282",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Healthy Living and Safety",
+    "worldId": "jungle-trail",
+    "difficulty": 1,
+    "question": "Adventure #282: Sunscreen helps protect skin from what?",
+    "answers": [
+      {
+        "id": "q_health_0282_b",
+        "text": "Cold only"
+      },
+      {
+        "id": "q_health_0282_c",
+        "text": "Rain taste"
+      },
+      {
+        "id": "q_health_0282_d",
+        "text": "Wind colour"
+      },
+      {
+        "id": "q_health_0282_a",
+        "text": "Sun UV rays"
+      }
+    ],
+    "correctAnswerId": "q_health_0282_a",
+    "explanation": "Sunscreen reduces UV damage.",
+    "hint": "Think about: Safety",
+    "funFact": "Sunscreen reduces UV damage.",
+    "sourceName": "Safety",
+    "licence": "original-paraphrase",
+    "tags": [
+      "health",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]

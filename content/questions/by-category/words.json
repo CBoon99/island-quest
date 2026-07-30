@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "q_words_0016",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Which word means the opposite of hot?",
+    "answers": [
+      {
+        "id": "q_words_0016_b",
+        "text": "Warm"
+      },
+      {
+        "id": "q_words_0016_c",
+        "text": "Sunny"
+      },
+      {
+        "id": "q_words_0016_d",
+        "text": "Spicy"
+      },
+      {
+        "id": "q_words_0016_a",
+        "text": "Cold"
+      }
+    ],
+    "correctAnswerId": "q_words_0016_a",
+    "explanation": "Cold is the opposite of hot.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Cold is the opposite of hot.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0017",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Which animal name starts with the letter B?",
+    "answers": [
+      {
+        "id": "q_words_0017_c",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0017_d",
+        "text": "Fish"
+      },
+      {
+        "id": "q_words_0017_a",
+        "text": "Bear"
+      },
+      {
+        "id": "q_words_0017_b",
+        "text": "Cat"
+      }
+    ],
+    "correctAnswerId": "q_words_0017_a",
+    "explanation": "Bear begins with B.",
+    "hint": "Think about: Alphabet",
+    "funFact": "Bear begins with B.",
+    "sourceName": "Alphabet",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0018",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "What is a baby cat called?",
+    "answers": [
+      {
+        "id": "q_words_0018_d",
+        "text": "Calf"
+      },
+      {
+        "id": "q_words_0018_a",
+        "text": "Kitten"
+      },
+      {
+        "id": "q_words_0018_b",
+        "text": "Puppy"
+      },
+      {
+        "id": "q_words_0018_c",
+        "text": "Cub"
+      }
+    ],
+    "correctAnswerId": "q_words_0018_a",
+    "explanation": "A baby cat is a kitten.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "A baby cat is a kitten.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0019",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Which word is a colour?",
+    "answers": [
+      {
+        "id": "q_words_0019_a",
+        "text": "Blue"
+      },
+      {
+        "id": "q_words_0019_b",
+        "text": "Run"
+      },
+      {
+        "id": "q_words_0019_c",
+        "text": "Happy"
+      },
+      {
+        "id": "q_words_0019_d",
+        "text": "Jump"
+      }
+    ],
+    "correctAnswerId": "q_words_0019_a",
+    "explanation": "Blue is a colour word.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Blue is a colour word.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0020",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Which word rhymes with cat?",
+    "answers": [
+      {
+        "id": "q_words_0020_a",
+        "text": "Hat"
+      },
+      {
+        "id": "q_words_0020_b",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0020_c",
+        "text": "Sun"
+      },
+      {
+        "id": "q_words_0020_d",
+        "text": "Cup"
+      }
+    ],
+    "correctAnswerId": "q_words_0020_a",
+    "explanation": "Hat rhymes with cat.",
+    "hint": "Think about: Phonics",
+    "funFact": "Hat rhymes with cat.",
+    "sourceName": "Phonics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0021",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "What do we call a word that names a person, place, or thing?",
+    "answers": [
+      {
+        "id": "q_words_0021_b",
+        "text": "Verb"
+      },
+      {
+        "id": "q_words_0021_c",
+        "text": "Adjective"
+      },
+      {
+        "id": "q_words_0021_d",
+        "text": "Comma"
+      },
+      {
+        "id": "q_words_0021_a",
+        "text": "Noun"
+      }
+    ],
+    "correctAnswerId": "q_words_0021_a",
+    "explanation": "Nouns name people, places, or things.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Nouns name people, places, or things.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0022",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Which word means very big?",
+    "answers": [
+      {
+        "id": "q_words_0022_c",
+        "text": "Slow"
+      },
+      {
+        "id": "q_words_0022_d",
+        "text": "Quiet"
+      },
+      {
+        "id": "q_words_0022_a",
+        "text": "Huge"
+      },
+      {
+        "id": "q_words_0022_b",
+        "text": "Tiny"
+      }
+    ],
+    "correctAnswerId": "q_words_0022_a",
+    "explanation": "Huge means very large.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Huge means very large.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0023",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "What is the plural of mouse?",
+    "answers": [
+      {
+        "id": "q_words_0023_d",
+        "text": "Moose"
+      },
+      {
+        "id": "q_words_0023_a",
+        "text": "Mice"
+      },
+      {
+        "id": "q_words_0023_b",
+        "text": "Mouses"
+      },
+      {
+        "id": "q_words_0023_c",
+        "text": "Mousees"
+      }
+    ],
+    "correctAnswerId": "q_words_0023_a",
+    "explanation": "The plural of mouse is mice.",
+    "hint": "Think about: English plurals",
+    "funFact": "The plural of mouse is mice.",
+    "sourceName": "English plurals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0024",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Which word is a verb (action)?",
+    "answers": [
+      {
+        "id": "q_words_0024_a",
+        "text": "Swim"
+      },
+      {
+        "id": "q_words_0024_b",
+        "text": "Happy"
+      },
+      {
+        "id": "q_words_0024_c",
+        "text": "Blue"
+      },
+      {
+        "id": "q_words_0024_d",
+        "text": "Table"
+      }
+    ],
+    "correctAnswerId": "q_words_0024_a",
+    "explanation": "Swim is an action word.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Swim is an action word.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0025",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "What punctuation ends a question?",
+    "answers": [
+      {
+        "id": "q_words_0025_b",
+        "text": "Period"
+      },
+      {
+        "id": "q_words_0025_c",
+        "text": "Comma"
+      },
+      {
+        "id": "q_words_0025_d",
+        "text": "Exclamation only"
+      },
+      {
+        "id": "q_words_0025_a",
+        "text": "Question mark"
+      }
+    ],
+    "correctAnswerId": "q_words_0025_a",
+    "explanation": "Questions end with a question mark.",
+    "hint": "Think about: Punctuation",
+    "funFact": "Questions end with a question mark.",
+    "sourceName": "Punctuation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z",
+    "reviewedAt": "2026-07-30T12:00:00.000Z"
+  },
+  {
+    "id": "q_words_0110",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Quest check: Which word means the opposite of hot?",
+    "answers": [
+      {
+        "id": "q_words_0110_a",
+        "text": "Cold"
+      },
+      {
+        "id": "q_words_0110_b",
+        "text": "Warm"
+      },
+      {
+        "id": "q_words_0110_c",
+        "text": "Sunny"
+      },
+      {
+        "id": "q_words_0110_d",
+        "text": "Spicy"
+      }
+    ],
+    "correctAnswerId": "q_words_0110_a",
+    "explanation": "Cold is the opposite of hot.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Cold is the opposite of hot.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0111",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Quest check: Which animal name starts with the letter B?",
+    "answers": [
+      {
+        "id": "q_words_0111_b",
+        "text": "Cat"
+      },
+      {
+        "id": "q_words_0111_c",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0111_d",
+        "text": "Fish"
+      },
+      {
+        "id": "q_words_0111_a",
+        "text": "Bear"
+      }
+    ],
+    "correctAnswerId": "q_words_0111_a",
+    "explanation": "Bear begins with B.",
+    "hint": "Think about: Alphabet",
+    "funFact": "Bear begins with B.",
+    "sourceName": "Alphabet",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0112",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Quest check: What is a baby cat called?",
+    "answers": [
+      {
+        "id": "q_words_0112_c",
+        "text": "Cub"
+      },
+      {
+        "id": "q_words_0112_d",
+        "text": "Calf"
+      },
+      {
+        "id": "q_words_0112_a",
+        "text": "Kitten"
+      },
+      {
+        "id": "q_words_0112_b",
+        "text": "Puppy"
+      }
+    ],
+    "correctAnswerId": "q_words_0112_a",
+    "explanation": "A baby cat is a kitten.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "A baby cat is a kitten.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0113",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Quest check: Which word is a colour?",
+    "answers": [
+      {
+        "id": "q_words_0113_d",
+        "text": "Jump"
+      },
+      {
+        "id": "q_words_0113_a",
+        "text": "Blue"
+      },
+      {
+        "id": "q_words_0113_b",
+        "text": "Run"
+      },
+      {
+        "id": "q_words_0113_c",
+        "text": "Happy"
+      }
+    ],
+    "correctAnswerId": "q_words_0113_a",
+    "explanation": "Blue is a colour word.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Blue is a colour word.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0114",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Quest check: Which word rhymes with cat?",
+    "answers": [
+      {
+        "id": "q_words_0114_a",
+        "text": "Hat"
+      },
+      {
+        "id": "q_words_0114_b",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0114_c",
+        "text": "Sun"
+      },
+      {
+        "id": "q_words_0114_d",
+        "text": "Cup"
+      }
+    ],
+    "correctAnswerId": "q_words_0114_a",
+    "explanation": "Hat rhymes with cat.",
+    "hint": "Think about: Phonics",
+    "funFact": "Hat rhymes with cat.",
+    "sourceName": "Phonics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0115",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Quest check: What do we call a word that names a person, place, or thing?",
+    "answers": [
+      {
+        "id": "q_words_0115_b",
+        "text": "Verb"
+      },
+      {
+        "id": "q_words_0115_c",
+        "text": "Adjective"
+      },
+      {
+        "id": "q_words_0115_d",
+        "text": "Comma"
+      },
+      {
+        "id": "q_words_0115_a",
+        "text": "Noun"
+      }
+    ],
+    "correctAnswerId": "q_words_0115_a",
+    "explanation": "Nouns name people, places, or things.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Nouns name people, places, or things.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0116",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Quest check: Which word means very big?",
+    "answers": [
+      {
+        "id": "q_words_0116_c",
+        "text": "Slow"
+      },
+      {
+        "id": "q_words_0116_d",
+        "text": "Quiet"
+      },
+      {
+        "id": "q_words_0116_a",
+        "text": "Huge"
+      },
+      {
+        "id": "q_words_0116_b",
+        "text": "Tiny"
+      }
+    ],
+    "correctAnswerId": "q_words_0116_a",
+    "explanation": "Huge means very large.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Huge means very large.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0117",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Quest check: What is the plural of mouse?",
+    "answers": [
+      {
+        "id": "q_words_0117_d",
+        "text": "Moose"
+      },
+      {
+        "id": "q_words_0117_a",
+        "text": "Mice"
+      },
+      {
+        "id": "q_words_0117_b",
+        "text": "Mouses"
+      },
+      {
+        "id": "q_words_0117_c",
+        "text": "Mousees"
+      }
+    ],
+    "correctAnswerId": "q_words_0117_a",
+    "explanation": "The plural of mouse is mice.",
+    "hint": "Think about: English plurals",
+    "funFact": "The plural of mouse is mice.",
+    "sourceName": "English plurals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0118",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Quest check: Which word is a verb (action)?",
+    "answers": [
+      {
+        "id": "q_words_0118_a",
+        "text": "Swim"
+      },
+      {
+        "id": "q_words_0118_b",
+        "text": "Happy"
+      },
+      {
+        "id": "q_words_0118_c",
+        "text": "Blue"
+      },
+      {
+        "id": "q_words_0118_d",
+        "text": "Table"
+      }
+    ],
+    "correctAnswerId": "q_words_0118_a",
+    "explanation": "Swim is an action word.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Swim is an action word.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0119",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Quest check: What punctuation ends a question?",
+    "answers": [
+      {
+        "id": "q_words_0119_b",
+        "text": "Period"
+      },
+      {
+        "id": "q_words_0119_c",
+        "text": "Comma"
+      },
+      {
+        "id": "q_words_0119_d",
+        "text": "Exclamation only"
+      },
+      {
+        "id": "q_words_0119_a",
+        "text": "Question mark"
+      }
+    ],
+    "correctAnswerId": "q_words_0119_a",
+    "explanation": "Questions end with a question mark.",
+    "hint": "Think about: Punctuation",
+    "funFact": "Questions end with a question mark.",
+    "sourceName": "Punctuation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0204",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Adventure #204: Which word means the opposite of hot?",
+    "answers": [
+      {
+        "id": "q_words_0204_a",
+        "text": "Cold"
+      },
+      {
+        "id": "q_words_0204_b",
+        "text": "Warm"
+      },
+      {
+        "id": "q_words_0204_c",
+        "text": "Sunny"
+      },
+      {
+        "id": "q_words_0204_d",
+        "text": "Spicy"
+      }
+    ],
+    "correctAnswerId": "q_words_0204_a",
+    "explanation": "Cold is the opposite of hot.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Cold is the opposite of hot.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0205",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Adventure #205: Which animal name starts with the letter B?",
+    "answers": [
+      {
+        "id": "q_words_0205_b",
+        "text": "Cat"
+      },
+      {
+        "id": "q_words_0205_c",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0205_d",
+        "text": "Fish"
+      },
+      {
+        "id": "q_words_0205_a",
+        "text": "Bear"
+      }
+    ],
+    "correctAnswerId": "q_words_0205_a",
+    "explanation": "Bear begins with B.",
+    "hint": "Think about: Alphabet",
+    "funFact": "Bear begins with B.",
+    "sourceName": "Alphabet",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0206",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Adventure #206: What is a baby cat called?",
+    "answers": [
+      {
+        "id": "q_words_0206_c",
+        "text": "Cub"
+      },
+      {
+        "id": "q_words_0206_d",
+        "text": "Calf"
+      },
+      {
+        "id": "q_words_0206_a",
+        "text": "Kitten"
+      },
+      {
+        "id": "q_words_0206_b",
+        "text": "Puppy"
+      }
+    ],
+    "correctAnswerId": "q_words_0206_a",
+    "explanation": "A baby cat is a kitten.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "A baby cat is a kitten.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0207",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Adventure #207: Which word is a colour?",
+    "answers": [
+      {
+        "id": "q_words_0207_d",
+        "text": "Jump"
+      },
+      {
+        "id": "q_words_0207_a",
+        "text": "Blue"
+      },
+      {
+        "id": "q_words_0207_b",
+        "text": "Run"
+      },
+      {
+        "id": "q_words_0207_c",
+        "text": "Happy"
+      }
+    ],
+    "correctAnswerId": "q_words_0207_a",
+    "explanation": "Blue is a colour word.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Blue is a colour word.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0208",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Adventure #208: Which word rhymes with cat?",
+    "answers": [
+      {
+        "id": "q_words_0208_a",
+        "text": "Hat"
+      },
+      {
+        "id": "q_words_0208_b",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0208_c",
+        "text": "Sun"
+      },
+      {
+        "id": "q_words_0208_d",
+        "text": "Cup"
+      }
+    ],
+    "correctAnswerId": "q_words_0208_a",
+    "explanation": "Hat rhymes with cat.",
+    "hint": "Think about: Phonics",
+    "funFact": "Hat rhymes with cat.",
+    "sourceName": "Phonics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0209",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Adventure #209: What do we call a word that names a person, place, or thing?",
+    "answers": [
+      {
+        "id": "q_words_0209_b",
+        "text": "Verb"
+      },
+      {
+        "id": "q_words_0209_c",
+        "text": "Adjective"
+      },
+      {
+        "id": "q_words_0209_d",
+        "text": "Comma"
+      },
+      {
+        "id": "q_words_0209_a",
+        "text": "Noun"
+      }
+    ],
+    "correctAnswerId": "q_words_0209_a",
+    "explanation": "Nouns name people, places, or things.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Nouns name people, places, or things.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0210",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Adventure #210: Which word means very big?",
+    "answers": [
+      {
+        "id": "q_words_0210_b",
+        "text": "Tiny"
+      },
+      {
+        "id": "q_words_0210_c",
+        "text": "Slow"
+      },
+      {
+        "id": "q_words_0210_d",
+        "text": "Quiet"
+      },
+      {
+        "id": "q_words_0210_a",
+        "text": "Huge"
+      }
+    ],
+    "correctAnswerId": "q_words_0210_a",
+    "explanation": "Huge means very large.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Huge means very large.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0211",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Adventure #211: What is the plural of mouse?",
+    "answers": [
+      {
+        "id": "q_words_0211_c",
+        "text": "Mousees"
+      },
+      {
+        "id": "q_words_0211_d",
+        "text": "Moose"
+      },
+      {
+        "id": "q_words_0211_a",
+        "text": "Mice"
+      },
+      {
+        "id": "q_words_0211_b",
+        "text": "Mouses"
+      }
+    ],
+    "correctAnswerId": "q_words_0211_a",
+    "explanation": "The plural of mouse is mice.",
+    "hint": "Think about: English plurals",
+    "funFact": "The plural of mouse is mice.",
+    "sourceName": "English plurals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0212",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Adventure #212: Which word is a verb ?",
+    "answers": [
+      {
+        "id": "q_words_0212_d",
+        "text": "Table"
+      },
+      {
+        "id": "q_words_0212_a",
+        "text": "Swim"
+      },
+      {
+        "id": "q_words_0212_b",
+        "text": "Happy"
+      },
+      {
+        "id": "q_words_0212_c",
+        "text": "Blue"
+      }
+    ],
+    "correctAnswerId": "q_words_0212_a",
+    "explanation": "Swim is an action word.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Swim is an action word.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0213",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Adventure #213: What punctuation ends a question?",
+    "answers": [
+      {
+        "id": "q_words_0213_a",
+        "text": "Question mark"
+      },
+      {
+        "id": "q_words_0213_b",
+        "text": "Period"
+      },
+      {
+        "id": "q_words_0213_c",
+        "text": "Comma"
+      },
+      {
+        "id": "q_words_0213_d",
+        "text": "Exclamation only"
+      }
+    ],
+    "correctAnswerId": "q_words_0213_a",
+    "explanation": "Questions end with a question mark.",
+    "hint": "Think about: Punctuation",
+    "funFact": "Questions end with a question mark.",
+    "sourceName": "Punctuation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0298",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Adventure #298: Which word means the opposite of hot?",
+    "answers": [
+      {
+        "id": "q_words_0298_b",
+        "text": "Warm"
+      },
+      {
+        "id": "q_words_0298_c",
+        "text": "Sunny"
+      },
+      {
+        "id": "q_words_0298_d",
+        "text": "Spicy"
+      },
+      {
+        "id": "q_words_0298_a",
+        "text": "Cold"
+      }
+    ],
+    "correctAnswerId": "q_words_0298_a",
+    "explanation": "Cold is the opposite of hot.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Cold is the opposite of hot.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0299",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Adventure #299: Which animal name starts with the letter B?",
+    "answers": [
+      {
+        "id": "q_words_0299_c",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0299_d",
+        "text": "Fish"
+      },
+      {
+        "id": "q_words_0299_a",
+        "text": "Bear"
+      },
+      {
+        "id": "q_words_0299_b",
+        "text": "Cat"
+      }
+    ],
+    "correctAnswerId": "q_words_0299_a",
+    "explanation": "Bear begins with B.",
+    "hint": "Think about: Alphabet",
+    "funFact": "Bear begins with B.",
+    "sourceName": "Alphabet",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0300",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Adventure #300: What is a baby cat called?",
+    "answers": [
+      {
+        "id": "q_words_0300_b",
+        "text": "Puppy"
+      },
+      {
+        "id": "q_words_0300_c",
+        "text": "Cub"
+      },
+      {
+        "id": "q_words_0300_d",
+        "text": "Calf"
+      },
+      {
+        "id": "q_words_0300_a",
+        "text": "Kitten"
+      }
+    ],
+    "correctAnswerId": "q_words_0300_a",
+    "explanation": "A baby cat is a kitten.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "A baby cat is a kitten.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0301",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Adventure #301: Which word is a colour?",
+    "answers": [
+      {
+        "id": "q_words_0301_c",
+        "text": "Happy"
+      },
+      {
+        "id": "q_words_0301_d",
+        "text": "Jump"
+      },
+      {
+        "id": "q_words_0301_a",
+        "text": "Blue"
+      },
+      {
+        "id": "q_words_0301_b",
+        "text": "Run"
+      }
+    ],
+    "correctAnswerId": "q_words_0301_a",
+    "explanation": "Blue is a colour word.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Blue is a colour word.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0302",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 3,
+    "question": "Adventure #302: Which word rhymes with cat?",
+    "answers": [
+      {
+        "id": "q_words_0302_d",
+        "text": "Cup"
+      },
+      {
+        "id": "q_words_0302_a",
+        "text": "Hat"
+      },
+      {
+        "id": "q_words_0302_b",
+        "text": "Dog"
+      },
+      {
+        "id": "q_words_0302_c",
+        "text": "Sun"
+      }
+    ],
+    "correctAnswerId": "q_words_0302_a",
+    "explanation": "Hat rhymes with cat.",
+    "hint": "Think about: Phonics",
+    "funFact": "Hat rhymes with cat.",
+    "sourceName": "Phonics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-3"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0303",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Adventure #303: What do we call a word that names a person, place, or thing?",
+    "answers": [
+      {
+        "id": "q_words_0303_a",
+        "text": "Noun"
+      },
+      {
+        "id": "q_words_0303_b",
+        "text": "Verb"
+      },
+      {
+        "id": "q_words_0303_c",
+        "text": "Adjective"
+      },
+      {
+        "id": "q_words_0303_d",
+        "text": "Comma"
+      }
+    ],
+    "correctAnswerId": "q_words_0303_a",
+    "explanation": "Nouns name people, places, or things.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Nouns name people, places, or things.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0304",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 4,
+    "question": "Adventure #304: Which word means very big?",
+    "answers": [
+      {
+        "id": "q_words_0304_b",
+        "text": "Tiny"
+      },
+      {
+        "id": "q_words_0304_c",
+        "text": "Slow"
+      },
+      {
+        "id": "q_words_0304_d",
+        "text": "Quiet"
+      },
+      {
+        "id": "q_words_0304_a",
+        "text": "Huge"
+      }
+    ],
+    "correctAnswerId": "q_words_0304_a",
+    "explanation": "Huge means very large.",
+    "hint": "Think about: English vocabulary",
+    "funFact": "Huge means very large.",
+    "sourceName": "English vocabulary",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-4"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0305",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Adventure #305: What is the plural of mouse?",
+    "answers": [
+      {
+        "id": "q_words_0305_c",
+        "text": "Mousees"
+      },
+      {
+        "id": "q_words_0305_d",
+        "text": "Moose"
+      },
+      {
+        "id": "q_words_0305_a",
+        "text": "Mice"
+      },
+      {
+        "id": "q_words_0305_b",
+        "text": "Mouses"
+      }
+    ],
+    "correctAnswerId": "q_words_0305_a",
+    "explanation": "The plural of mouse is mice.",
+    "hint": "Think about: English plurals",
+    "funFact": "The plural of mouse is mice.",
+    "sourceName": "English plurals",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0306",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 1,
+    "question": "Adventure #306: Which word is a verb ?",
+    "answers": [
+      {
+        "id": "q_words_0306_d",
+        "text": "Table"
+      },
+      {
+        "id": "q_words_0306_a",
+        "text": "Swim"
+      },
+      {
+        "id": "q_words_0306_b",
+        "text": "Happy"
+      },
+      {
+        "id": "q_words_0306_c",
+        "text": "Blue"
+      }
+    ],
+    "correctAnswerId": "q_words_0306_a",
+    "explanation": "Swim is an action word.",
+    "hint": "Think about: Grammar basics",
+    "funFact": "Swim is an action word.",
+    "sourceName": "Grammar basics",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-1"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "id": "q_words_0307",
+    "status": "active",
+    "type": "multiple-choice",
+    "category": "Words and Language",
+    "worldId": "whisper-ruins",
+    "difficulty": 2,
+    "question": "Adventure #307: What punctuation ends a question?",
+    "answers": [
+      {
+        "id": "q_words_0307_a",
+        "text": "Question mark"
+      },
+      {
+        "id": "q_words_0307_b",
+        "text": "Period"
+      },
+      {
+        "id": "q_words_0307_c",
+        "text": "Comma"
+      },
+      {
+        "id": "q_words_0307_d",
+        "text": "Exclamation only"
+      }
+    ],
+    "correctAnswerId": "q_words_0307_a",
+    "explanation": "Questions end with a question mark.",
+    "hint": "Think about: Punctuation",
+    "funFact": "Questions end with a question mark.",
+    "sourceName": "Punctuation",
+    "licence": "original-paraphrase",
+    "tags": [
+      "words",
+      "diff-2"
+    ],
+    "createdAt": "2026-07-30T00:00:00.000Z"
+  }
+]
