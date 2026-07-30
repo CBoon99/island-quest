@@ -6,7 +6,7 @@ import type {
   WeeklyLeaderboard,
   WeeklyLeaderboardEntry,
   WeeklyReward,
-} from '@/types';
+} from '../types';
 
 export type PlayerPatch = Partial<
   Pick<

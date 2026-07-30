@@ -1,4 +1,4 @@
-import type { PowerUpId } from '@/types';
+import type { PowerUpId } from '../types';
 
 export type PowerUpDefinition = {
   id: PowerUpId;

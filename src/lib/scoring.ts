@@ -8,7 +8,7 @@ import type {
   Question,
   Round,
   WeeklyLeaderboardEntry,
-} from '@/types';
+} from '../types';
 
 export const BASE_POINTS: Record<DifficultyLevel, number> = {
   1: 100,

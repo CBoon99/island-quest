@@ -1,4 +1,4 @@
-import type { Player } from '@/types';
+import type { Player } from '../types';
 
 const now = '2026-07-30T00:00:00.000Z';
 

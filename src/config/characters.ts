@@ -1,4 +1,4 @@
-import type { GuideCharacter } from '@/types';
+import type { GuideCharacter } from '../types';
 
 /**
  * Guide characters. Voice IDs live only in server env (ELEVENLABS_*_VOICE_ID).

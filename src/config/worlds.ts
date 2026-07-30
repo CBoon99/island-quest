@@ -1,4 +1,4 @@
-import type { WorldDefinition } from '@/types';
+import type { WorldDefinition } from '../types';
 
 export const WORLDS: WorldDefinition[] = [
   {

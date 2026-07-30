@@ -1,11 +1,20 @@
+# Island Quest — Netlify
+# Build tools (vite/tsc) live in dependencies so production installs still work.
+
 [build]
   command = "npm run build"
   publish = "dist"
   functions = "netlify/functions"
 
+[build.environment]
+  NODE_VERSION = "22"
+  # Ensure build toolchain is installed even if omit-dev is set somewhere
+  NPM_FLAGS = "--include=dev"
+
 [functions]
   node_bundler = "esbuild"
-  external_node_modules = ["@netlify/blobs"]
+  # Bundler must resolve TS path alias used by shared src modules
+  # (esbuild plugin via included files + relative imports — see below)
 
 [[redirects]]
   from = "/api/*"

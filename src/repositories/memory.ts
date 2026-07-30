@@ -1,5 +1,6 @@
-import { SEED_PLAYERS } from '@/config/players';
-import { weekBounds } from '@/lib/week';
+// Relative imports so Netlify Functions esbuild can bundle without @ alias
+import { SEED_PLAYERS } from '../config/players';
+import { weekBounds } from '../lib/week';
 import type {
   CompletedRoundResult,
   Player,
@@ -7,7 +8,7 @@ import type {
   WeeklyLeaderboard,
   WeeklyLeaderboardEntry,
   WeeklyReward,
-} from '@/types';
+} from '../types';
 import type { GameRepository, PlayerPatch, StoreSnapshot } from './types';
 
 function clonePlayers(): Player[] {

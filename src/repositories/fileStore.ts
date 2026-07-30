@@ -17,7 +17,7 @@ import type {
   WeeklyLeaderboard,
   WeeklyLeaderboardEntry,
   WeeklyReward,
-} from '@/types';
+} from '../types';
 
 function loadSnapshot(path: string): StoreSnapshot {
   try {

@@ -1,4 +1,4 @@
-import type { DifficultyLevel, Player, Question, RoundMode } from '@/types';
+import type { DifficultyLevel, Player, Question, RoundMode } from '../types';
 
 export type SelectRoundInput = {
   player: Player;

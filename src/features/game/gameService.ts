@@ -1,12 +1,12 @@
-import { loadActiveQuestions, questionsById } from '@/data/questions';
+import { loadActiveQuestions, questionsById } from '../../data/questions';
 import {
   defaultPowerUpsForMode,
   modeQuestionCount,
   selectQuestions,
-} from '@/lib/selection';
-import { scoreRound } from '@/lib/scoring';
-import { localDateMakassar, weekId } from '@/lib/week';
-import type { GameRepository } from '@/repositories/types';
+} from '../../lib/selection';
+import { scoreRound, POWER_UP_MAX_PER_ROUND } from '../../lib/scoring';
+import { localDateMakassar, weekId } from '../../lib/week';
+import type { GameRepository } from '../../repositories/types';
 import type {
   AttemptInput,
   CompletedRoundResult,
@@ -14,8 +14,7 @@ import type {
   Question,
   Round,
   RoundMode,
-} from '@/types';
-import { POWER_UP_MAX_PER_ROUND } from '@/lib/scoring';
+} from '../../types';
 
 function newId(prefix: string): string {
   return `${prefix}_${Math.random().toString(36).slice(2, 10)}${Date.now().toString(36)}`;

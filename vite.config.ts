@@ -1,7 +1,9 @@
-import { defineConfig } from 'vitest/config';
+import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import path from 'node:path';
 
+// Keep vitest out of this file so Netlify production builds
+// (which may omit devDependencies) can still load the Vite config.
 export default defineConfig({
   plugins: [react()],
   resolve: {
@@ -12,20 +14,10 @@ export default defineConfig({
   server: {
     port: 5173,
     proxy: {
-      // Local TTS + health API (scripts/local-api.mjs)
       '/api': {
         target: 'http://127.0.0.1:8791',
         changeOrigin: true,
       },
     },
-  },
-  test: {
-    globals: true,
-    environment: 'jsdom',
-    setupFiles: ['./src/test/setup.ts'],
-    include: [
-      'tests/**/*.{test,spec}.{ts,tsx}',
-      'src/**/*.{test,spec}.{ts,tsx}',
-    ],
   },
 });
